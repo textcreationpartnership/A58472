@@ -1,0 +1,798 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The religion of the Church of England, the surest establishment of the royal throne with the unreasonable latitude which the Romanists allow in point of obedience to princes : in a letter occasioned by some late discourse with a person of quality.</title>
+            <author>Womock, Laurence, 1612-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58472</idno>
+            <idno type="STC">Wing R902</idno>
+            <idno type="STC">ESTC R14331</idno>
+            <idno type="EEBO-CITATION">13024423</idno>
+            <idno type="OCLC">ocm 13024423</idno>
+            <idno type="VID">96670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 398:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The religion of the Church of England, the surest establishment of the royal throne with the unreasonable latitude which the Romanists allow in point of obedience to princes : in a letter occasioned by some late discourse with a person of quality.</title>
+                  <author>Womock, Laurence, 1612-1685.</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor and John Williams, Junior ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Laurence Womock. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96670:1" rendition="simple:additions"/>
+            <p>THE RELIGION OF THE Church of England, The Sureſt ESTABLISHMENT OF THE Royal Throne; WITH The Unreaſonable Latitude which the <hi>Romaniſts</hi> allow in point of <hi>Obedience</hi> to <hi>Princes.</hi> In a LETTER occaſioned by ſome late Diſcourſe with a Perſon of Quality.</p>
+            <q>
+               <bibl>ROM. 13. 5.</bibl>
+               <p>
+                  <hi>Wherefore ye muſt needs be ſubject, not only for wrath, but alſo for Conſcience ſake.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor</hi> and <hi>John Williams, junior,</hi> at the <hi>Crown</hi> and in <hi>Croſs-Keys</hi> Court in <hi>Little Britain.</hi> 1673.</p>
+            <pb facs="tcp:96670:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:96670:2"/>
+            <head>THE RELIGION OF THE Church of England, The Sureſt ESTABLISHMENT OF THE Royal Throne.</head>
+            <p>In a LETTER occaſioned by ſome late Diſcourſe with a Perſon of Quality.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Cannot charge you with <hi>
+                        <g ref="char:V">Ʋ</g>nkindneſs,</hi> or ſay you have put me upon an <hi>unpleaſing Task</hi> by commanding my Thoughts about the <hi>matter</hi> of our <hi>laſt Diſcourſe,</hi> (though thouſands of my Brethren might have done it to <hi>better purpoſe;)</hi> ſince you have ren<g ref="char:EOLhyphen"/>dred me capable of expreſſing the Service I owe to my <hi>Prince,</hi> and the Duty to <hi>my Mother the Church of Eng<g ref="char:EOLhyphen"/>land.</hi>
+                     <pb n="2" facs="tcp:96670:3"/> She (like her Saviour) hath met with a great many Reproaches, and by <hi>ſome</hi> either Ignorants or Adverſaries, been particularly <hi>miſ<g ref="char:EOLhyphen"/>repreſented</hi> to you; and that Excellency wherein ſhe hath juſt occaſion to <hi>glory,</hi> above all the Churches in the world, ſo miſe<g ref="char:EOLhyphen"/>rably ſullied by <hi>unrighteous Aſperſions,</hi> that ſhe appears not half ſo <hi>amiable</hi> to your eye as <hi>formerly</hi> ſhe hath done. Give me leave then to wipe off the Dirt which hath ſo <hi>maliciouſly</hi> been caſt upon her, to waſh off the Spots ſpirted on her <hi>Face,</hi> and her own Beauty will ſufficiently commend her. I cannot believe your Judgment ſo <hi>unſteady</hi> as really to be <hi>captivated</hi> with thoſe falſe Inſinuations; nor wonder enough at the Impudence of ſome perſons who dare inſinuate ſuch <hi>palpable untruths</hi> as you ſeem in danger to be <hi>perverted</hi> with. In plain terms, That any man ſhould have <hi>ſo hard a forehead</hi> as <hi>to queſtion the Church of</hi> England<hi>'s Loyalty to her Prince,</hi> or maintain that <hi>ſhe affords</hi> the leaſt Encouragement <hi>to any Rebellious Attempt</hi> either againſt his <hi>Perſon</hi> or <hi>Dignity; to ſhake the Crown upon his Head,</hi> or <hi>make a Finger of his Hand to bleed;</hi> would put me into a ſtrange fit of Admiration, did we not li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in ſo prodigious an Age, that <hi>mens tongues are their own,</hi> and they will ſay what they pleaſe. For my part, I look upon theſe charges to be ſo <hi>groſly ſlanderous,</hi> that for your Satisfaction, and poſſibly the Conviction of others, I ſhall confidently aſſert,</p>
+                  <p>
+                     <hi>That no King ſits ſo ſecurely upon his Throne as the King of</hi> England, <hi>by virtue of the Religion eſta<g ref="char:EOLhyphen"/>bliſhed among us.</hi>
+                  </p>
+                  <p>It is not to be imagined that the bare propounding this Truth ſhould preſently gain it a <hi>favourable Rece<g ref="char:EOLhyphen"/>ption,</hi> eſpecially where the Judgment ſeems already
+<pb n="3" facs="tcp:96670:3"/> 
+                     <hi>fore-ſtalled</hi> with no <hi>mean</hi> Prejudices againſt it: But ſtill a Truth it is, and to <hi>prove</hi> it one, I ſhall only proceed upon theſe two Grounds,</p>
+                  <p n="1">I. <hi>That the Church of</hi> England <hi>obligeth all her Chil<g ref="char:EOLhyphen"/>dren to the moſt Dutiful Carriage imaginable to<g ref="char:EOLhyphen"/>wards</hi> All Princes.</p>
+                  <p n="2">II. (To take off your Miſ-priſion;) <hi>That the Church of</hi> Rome <hi>allows thoſe of her Communion an</hi> unrea<g ref="char:EOLhyphen"/>ſonable Latitude <hi>in this very point of</hi> Obedience <hi>and</hi> Duty.</p>
+                  <p>I. <hi>That the Church of</hi> England <hi>obligeth all her Chil<g ref="char:EOLhyphen"/>dren to the moſt Dutiful Carriage imaginable to<g ref="char:EOLhyphen"/>wards</hi> All Princes.</p>
+                  <p>It is but Reaſonable we ſhould clear our <hi>own Inno<g ref="char:EOLhyphen"/>cency</hi> before we quarrel with anothers Guilt, leaſt our ſelves fall under the charge of that Crime which is ſo juſtly condemned in thoſe of the Romiſh Party. Now certainly the moſt Rational Account we can have of any Churches Principles, muſt be taken from the Infallible Rule to which in all caſes ſhe <hi>ſubmits;</hi> the Doctrin ſhe <hi>profeſſeth;</hi> the Worſhip which ſhe <hi>owns;</hi> the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Conſtitutions ſhe hath <hi>framed</hi> for outward Order; and the conſtant Practice of all her Obedient Children. Her Rule are the <hi>Holy Scriptures</hi> Commen<g ref="char:EOLhyphen"/>ted upon and Interpreted by the <hi>Sentiments of the Pri<g ref="char:EOLhyphen"/>mitive Fathers;</hi> Her Doctrin is conteined in the <hi>Articles</hi> and <hi>Homilies;</hi> Her Worſhip in the <hi>Public Liturgy;</hi> Her Conſtitutions in the <hi>Book of Canons;</hi> to which the <hi>Carriage</hi> of all thoſe who have not only in pretence but <hi>reality</hi> been her ſons, hath <hi>exactly correſponded.</hi> Nor is there any one of theſe which furniſheth us not with an abundant Confirmation of that Truth on behalf whereof it is alledged.</p>
+                  <pb n="4" facs="tcp:96670:4"/>
+                  <p>No Church ever profeſſed a greater Reverence to the <note place="margin">Proved I. From the Scriptures.</note> Holy Scriptures, nor charged <hi>her children</hi> more ſtrictly to make them the Rule both of Faith and Life. We be<g ref="char:EOLhyphen"/>lieve nothing but what is <hi>therein</hi> revealed, and are obli<g ref="char:EOLhyphen"/>ged to obſerve all the Commands <hi>therein</hi> conteined, <hi>whatſoever ſort</hi> of Duties they have reſpect unto. Now it is beyond diſpute that the Word of God calls for O<g ref="char:EOLhyphen"/>bedience to Princes, and forbids all Oppoſition to, and Rebellion againſt them. <hi>Solomon</hi> in the old Teſta<g ref="char:EOLhyphen"/>ment ſpeaks of a <hi>King againſt whom there is no riſing</hi> 
+                     <note place="margin">Prov. 30. 31.</note> 
+                     <hi>up,</hi> which King is <hi>every King;</hi> for by virtue of his Su<g ref="char:EOLhyphen"/>preme Authority, he is beyond the <hi>reach</hi> of his Subjects Power and above the <hi>attempts</hi> of all their Force. Nor is this only true of ſuch who, like <hi>David,</hi> are <hi>men after Gods own heart,</hi> or like <hi>Hezekiah</hi> and <hi>Joſiah,</hi> not to be equalled, ſcarce parallel'd by thoſe that either preceded or ſucceeded them; but of a <hi>wicked Saul,</hi> a <hi>looſe Ama<g ref="char:EOLhyphen"/>ziah,</hi> an <hi>Idolatrous Manaſſeh;</hi> Theſe alſo being <hi>Gods Anointed;</hi> and wickedneſs in the Heart <hi>wipes</hi> not off the <hi>ſacred Oil</hi> from the Head. If we look into the Go<g ref="char:EOLhyphen"/>ſpels, our Bleſſed Saviour commands the <hi>Rendring unto</hi> 
+                     <note place="margin">Matth. 22. 21.</note> 
+                     <hi>Caeſar the things that are Caeſars,</hi> with the <hi>ſame care</hi> that he requires the <hi>rendring unto God the things that are Gods;</hi> which <hi>Caeſar</hi> was <hi>Tiberius,</hi> of whom the Roman Hiſtorians give <hi>no very good</hi> Character. And rather than any <hi>Offence</hi> ſhould be taken, he works a Miracle for paying his Tribute-Money, ſending S. <hi>Peter to take it</hi> 
+                     <note place="margin">Matth. 17. 27.</note> 
+                     <hi>out of a Fiſhes mouth.</hi> To him ſucceeded the two great Apoſtles S. <hi>Paul</hi> and S. <hi>Peter,</hi> the one with his charge, <hi>Let every ſoul be ſubject to the higher Powers. Subject,</hi> 
+                     <note place="margin">Rom. 13. 1.</note> not only for Convenience, but upon the account of <hi>Duty;</hi> not only as a piece of Policy to prevent any Se<g ref="char:EOLhyphen"/>cular Puniſhment, but a point of Conſcience to pleaſe
+<pb n="5" facs="tcp:96670:4"/> our Heavenly Father. <hi>Ye muſt needs be ſubject not</hi> 
+                     <note place="margin" type="runSum">5.</note> 
+                     <hi>only for wrath, but alſo for conſcience ſake.</hi> The other with his command, <hi>Submit your ſelves to every</hi> 
+                     <note place="margin">1 P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 2. 13 14.</note> 
+                     <hi>Ordinance of man for the Lords ſake, whether it be to</hi> the King as Supreme, <hi>or unto them that are ſent by him,—Fear God, Honor the King.</hi> And it is plain <note place="margin" type="runSum">17.</note> when theſe Apoſtles wrote, <hi>Nero</hi> that <hi>Portentum ho<g ref="char:EOLhyphen"/>minis,</hi> (as <hi>Suetonius</hi> calls him) that <hi>Monſter of men</hi> 
+                     <note place="margin">Suet in vitâ N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s.</note> was <hi>then</hi> Emperor; as wicked a tyrannical Prince, and as great an Enemy to the Chriſtians as ever lived. Whence we may <hi>rationally</hi> conclude, <hi>Though a King be of another Religion, though his Life be extremely de<g ref="char:EOLhyphen"/>bauched, and his Government ſevere and cruel, yet None of theſe</hi> ſingly, <hi>not All of them</hi> together <hi>will diſcharge the Subject from his obedience.</hi> And to convince the World what particular care this Church of ours takes that theſe Principles of Loyalty may be imbibed by all her children, ſhe hath not only appointed thoſe Chapters <hi>(Rom.</hi> 13. and 1 <hi>Pet.</hi> 2.) to be read in <hi>the conſtant courſe</hi> for daily Service, nor deſigned thoſe Paſſages in them only for the more eſpecial Solemni<g ref="char:EOLhyphen"/>ties of the Fifth of <hi>November,</hi> and Twenty nineth of <hi>May;</hi> but hath ſelected them likewiſe for her Sun<g ref="char:EOLhyphen"/>dayes Epiſtles; the one on the fourth Sunday after Epiphany, the other on the third Sunday after Eaſter.</p>
+                  <p>But the Abſolute Subjection ſhe owns to the Holy <note place="margin">2. From the Writings of the Fathers.</note> Scriptures doth not in the leaſt leſſen her Honor to the Primitive Fathers; from <hi>whoſe Writings</hi> (as the beſt Expoſitors of the Sacred Text) ſhe would ſatis<g ref="char:EOLhyphen"/>fie her Children in <hi>this point of Duty.</hi> It may well be preſumed that in thoſe early dayes of Chriſtianity Religion was in its greateſt vigour, and men did not only <hi>beſt</hi> Know, but Practice what they were obliged
+<pb n="6" facs="tcp:96670:5"/> to, both with reſpect to God and their Superiors. She doth not indeed allow us <hi>jurare in verba,</hi> to <hi>pawn</hi> our Faith upon <hi>any man's credit,</hi> but to be Followers of Them ſo far as They have been Followers of Chriſt; and to take directions from them where thoſe directions <hi>agree</hi> with the written Word. So that whenſoever any of the Romaniſts would aſperſe us as <hi>ſlenderly regarding</hi> the Authority of the Ancients, we boldly plead in our own juſtification the venerable eſteem we entertain of the Authors, and their genuine Writings for the firſt four Centuries. And truly the <hi>higher</hi> we trace the <hi>better</hi> we like them. God in his infinite wiſdom reſolved the <hi>ſeed of the Goſpel</hi> ſhould no <hi>ſooner</hi> be <hi>ſown</hi> than <hi>watered with blood.</hi> A great while did his faithful ſervants bear a very heavy Croſs. The Roman Emperors were Heathens, and ſome par<g ref="char:EOLhyphen"/>ticular <hi>piques</hi> moſt of them had taken againſt Chri<g ref="char:EOLhyphen"/>ſtianity, inſomuch that the Profeſſors of it met with a great deal of miſery during their life, and many with a great deal of cruelty were <hi>put to death.</hi> Yet whe<g ref="char:EOLhyphen"/>ther <hi>Martyrs</hi> or <hi>not Martyrs,</hi> this was ſtill the Doctrin they taught, and from them we learn it, <hi>That nothing can diſpenſe with the Subjects Obedience to his Prince.</hi> Pardon me Sir, if I ſpend a little paper in preſenting you with remarkable paſſages taken out of ſome whoſe heads are the <hi>grayeſt</hi> among them. I begin with <hi>Ignatius,</hi> Scholar to St. <hi>John,</hi> and twelve years old at our Saviours Crucifixion. Thus he inſtructs the <hi>An<g ref="char:EOLhyphen"/>tiochians:</hi> (<note n="a" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Ignat. Epiſt. ad Antioch.</hi>
+                     </note>) <hi>Be obedient to Caeſar in thoſe things wherein</hi> you may obey without dan<g ref="char:EOLhyphen"/>ger (which is in all that are not <hi>ſinful) pro<g ref="char:EOLhyphen"/>voke not your Governors to anger, that you may not give occaſion to them who ſeek it againſt</hi>
+                     <pb n="7" facs="tcp:96670:5"/> 
+                     <hi>you.</hi> But becauſe the Authority of this Epiſtle is mat<g ref="char:EOLhyphen"/>ter of ſome diſpute, paſs from him to <hi>Juſtin Martyr</hi> not much <hi>behind</hi> him in years: (<note n="b" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>Juſt. Mart. Apol.</hi> 2. <hi>pro Chriſti<g ref="char:EOLhyphen"/>anis</hi>
+                     </note>) <hi>We wor<g ref="char:EOLhyphen"/>ſhip</hi> (ſaith he ſpeaking to the Magiſtrates) <hi>God alone, but</hi> in all things elſe <hi>we cheerfully ſerve you.</hi> A third among the Greek Fathers is <hi>The<g ref="char:EOLhyphen"/>ophilus</hi> Patriarch of <hi>Antioch,</hi> who delivered this good Rule; (<note n="c" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Theoph. Antyoch. lib.</hi> 1. <hi>ad Autolycum.</hi>
+                     </note>) <hi>Honor the King; honor him by being kindly affected to him, by obeying him, by pray<g ref="char:EOLhyphen"/>ing for him; for thus doing thou</hi> doeſt the will of God. From thoſe of the Greek come we to them of the Latine Church, and cer<g ref="char:EOLhyphen"/>tainly She preached the <hi>ſame Doctrine.</hi> The <hi>Kings Supremacy,</hi> and the <hi>Subjects Obedience</hi> was ne<g ref="char:EOLhyphen"/>ver better taught by any man in the world than <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> (a thouſand pities he turn'd Montaniſt at laſt) (<note n="a" place="margin">
+                        <hi>In cujus (Dei) poteſtate ſunt; a quo primi, poſt quem ſecundi, ante omnes &amp; ſuper omnes Deos Ter<g ref="char:EOLhyphen"/>tul. Apolog. cap.</hi> 30.</note>) <hi>They</hi> (i. e. <hi>Kings) are</hi> only <hi>under the coercive power of God, to whom they are ſubor<g ref="char:EOLhyphen"/>dinate, under whom</hi> Chief; <hi>before and</hi> above <hi>all that are called Gods.</hi> (<note n="b" place="margin">
+                        <hi>Chriſtianus nullius eſt hoſtis nedum Imperatoris; quem ſci<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> à Deo ſuo con<g ref="char:EOLhyphen"/>ſtitutus, neceſſe eſt ut ip<g ref="char:EOLhyphen"/>ſum dilig<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t, ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#MURP" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>, rev<gap reason="illegible" resp="#MURP" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>atur, &amp; ſalvum <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>. Idem lib. ad Scapulam cap.</hi> 2.</note>) <hi>A Chriſtian</hi> (ſaith he) <hi>is no mans Enemy, not</hi> the Emperors; (the great crime objected againſt them) <hi>for knowing Him to be a Perſon of His Gods own appointment, it is neceſſary he ſhould love, ho<g ref="char:EOLhyphen"/>nour, reverence, and wiſh him all the proſperity imaginable.</hi> And upon a large diſcourſe in his <hi>moſt excellent Apology</hi> (a book that deſerves the greateſt commendation) he declares plainly it was not want of Power but <hi>Will</hi> that hindred them from being rebellious; not fear of Puniſhment, but <hi>ſence of Duty;</hi> not Reſtraint, but <hi>Conſcience</hi> that <hi>awed</hi> them into obedience. They were gotten moſt <hi>numerous</hi> both in the Court, Senate, City, and Camp: and it
+<pb n="8" facs="tcp:96670:6"/> was the Heathens ſecurity to have them ſo: for (<note n="c" place="margin">
+                        <hi>Nunc paucio<g ref="char:EOLhyphen"/>res hoſtes ha<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>tis p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ae mul<g ref="char:EOLhyphen"/>titudine Chri<g ref="char:EOLhyphen"/>ſti mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>um Idem Apolog. cap.</hi> 50.</note>) <hi>the more Chriſtians</hi> alwayes <hi>the fewer Enemies:</hi> I have made the bolder with <hi>Tertullian,</hi> both becauſe of his Antiquity, and the <hi>Pertinent Quotations</hi> where<g ref="char:EOLhyphen"/>with his Writings ſupply me. To him let me add <hi>Lactantius,</hi> who inſtructs all Chriſtians in <hi>Paſſive</hi> as the reſt have done in <hi>Active Obedience.</hi> For put caſe the <hi>Old Plea</hi> for Diſobedience ſhould be renewed, a <hi>Reformation of Religion,</hi> yet will not that plauſible pre<g ref="char:EOLhyphen"/>tenſe juſtifie the failure in our Allegeance, ſince a Chriſtian muſt learn <hi>Patience</hi> as well as <hi>Courage,</hi> and prepare to be a <hi>Martyr,</hi> rather than a <hi>Rebel.</hi> (<note n="d" place="margin">
+                        <hi>Defen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>nda eſt R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gio non occid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndo; ſed mori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o non ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> á ſed pa<g ref="char:EOLhyphen"/>tientiá; ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſce<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e ſed fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e. Il<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> enim ma<g ref="char:EOLhyphen"/>lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>um ſunt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aec ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orum. La <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ant. lib</hi> 5. <hi>cap</hi> 30.</note>) <hi>Re<g ref="char:EOLhyphen"/>ligion is to be defended not by Killing, but by</hi> Dying; <hi>not by Cruelty, but by</hi> Patience; <hi>not by Wickedneſs, but by</hi> Fidelity. Thoſe are the practices of <hi>Wicked,</hi> but theſe of men <hi>truly good.</hi>
+                  </p>
+                  <p>To theſe might be added many others, which (for brevity ſake) I omit, becauſe this Pamphlet would ſwell beyond what is intended, and create you more trouble than is neceſſary in ſo plain a caſe.</p>
+                  <p>Let me now fall upon what <hi>more peculiarly</hi> belongs to our Church. The Papiſts keep the Scriptures from their people, which (God be thanked) we may have <hi>free recourſe</hi> unto: but they mightily brag of an Ad<g ref="char:EOLhyphen"/>herence to the Fathers. Had the Writings of thoſe Holy men as <hi>great an influence</hi> upon them as they pre<g ref="char:EOLhyphen"/>tend, <hi>Princes Thrones and Lives</hi> would be <hi>much more ſecure</hi> than they are, and the Church Cenſures not be thundred out againſt them as they be upon every tri<g ref="char:EOLhyphen"/>vial occaſion. (But of this hereafter) Now Sir give me leave to aſſure you that what you have already read from the Scriptures and Fathers is but the ſame our Church maintains in Her <hi>Avouched Doctrine,</hi> Her
+<pb n="9" facs="tcp:96670:6"/> 
+                     <hi>Publick Liturgy,</hi> and Her <hi>Eccleſiaſtical Conſtituti<g ref="char:EOLhyphen"/>ons.</hi>
+                  </p>
+                  <p>Her <hi>Avouched Doctrine</hi> is declared in the 39 <hi>Arti<g ref="char:EOLhyphen"/>cles</hi> 
+                     <note place="margin">From the Do<g ref="char:EOLhyphen"/>ctrine of the Church in the Articles and Homilies.</note> and the <hi>Book of Homilies</hi> ſet forth by Authority exactly conſonant to them. Theſe ſhe acknowledgeth (next to the Scriptures) as the Meaſure of her Faith, and the Rule for her Practice. And becauſe they are no Novel Inventions, nor the Products of any par<g ref="char:EOLhyphen"/>ticular brain; but <hi>the firſt</hi> agreed upon by the <hi>whole Convocation</hi> (the Clergies Repreſentative) and the <hi>Other</hi> compiled by able Perſons appointed to that employment; we ſee <hi>they are of age,</hi> and <hi>ſhall ſpeak</hi> 
+                     <note place="margin">A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. 37.</note> 
+                     <hi>for themſelves. The Queens Majeſty</hi> (ſo it was 1562. now the <hi>Kings) hath the chief Power in this Realm of England and other Her</hi> (His) <hi>Majeſties Dominions, unto whom the Government of All Eſtates in this Realm, whe<g ref="char:EOLhyphen"/>ther they be Eccleſiaſtical or Civil, in All Cauſes doth ap<g ref="char:EOLhyphen"/>pertain; and is not, nor ought to be ſubject to any for<g ref="char:EOLhyphen"/>reign Juriſdiction.</hi> Thus much declared in general terms, the Explanation follows preſently after. <hi>Where we attribute to the Queens</hi> (Kings) <hi>Majeſty the Chief Government—we underſtand that only Prerogative which we ſee to have been given alwayes to all godly Princes in Holy Scripture by God himſelf;</hi> i. e. <hi>that they ſhould rule all Eſtates and Degrees committed to their charge, whether they be Eccleſiaſtical or Temporal; and reſtrain with the Civil Sword the ſtubborn and evil doers.</hi> Then is there particularly added <hi>The Biſhop of Rome hath no Juriſdiction in this Realm of England.</hi> Upon which paſſage a motion was made in the <hi>Hamp<g ref="char:EOLhyphen"/>ton-Court</hi> Conference for inſerting <hi>Nor ought to have;</hi> but King <hi>James</hi> in his wiſdom rejected it with this anſwer, <hi>habemus jure quod habemus;</hi> intimating that
+<pb n="10" facs="tcp:96670:7"/> the Actual aſſerting that Priviledge argued a <hi>legal title</hi> to it. And it may be worth your obſervation that the Title-page of the Articles tells you they were <hi>agreed upon for avoiding diverſities of opinions, and for the eſtabliſhing of conſent touching true Religion.</hi> What theſe ſpeak more <hi>conciſely</hi> the Homilies teach more <hi>fully.</hi> I refer you to the <hi>ſix Sermons againſt Rebel<g ref="char:EOLhyphen"/>lion,</hi> proving the <hi>greatneſs of that ſin</hi> from Scripture, and the remarkable Examples of Gods vengeance upon perſons guilty of it: and proceeding in a me<g ref="char:EOLhyphen"/>thod of cloſe and ſtrong arguing, ſo that the peruſal of them will be a good improvement of your time and pains. Onely towards the latter end of one, there is this Exhortation (which I could not well o<g ref="char:EOLhyphen"/>mit.) <hi>Let us as the Children of Obedience fear the dread<g ref="char:EOLhyphen"/>ful</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 3.</note> 
+                     <hi>Execution of God, and live in quiet obedience to be the Children of Everlaſting Salvation. For as Heaven is the place of good obedient Subjects, and Hell the Priſon and Dungeon of Rebels againſt God and their Prince; ſo is that Realm happy where moſt obedience of Subjects doth appear, being the very figure of Heaven, and con<g ref="char:EOLhyphen"/>trariwiſe where moſt Rebellions and Rebels be, there is</hi> the expreſs ſimilitude of Hell: <hi>and the Rebels them<g ref="char:EOLhyphen"/>ſelves are</hi> the very ſigures of Fiends and Devils, <hi>and their Captain the ungrateful Pattern of Lucifer and Satan the Prince of darkneſs.</hi>
+                  </p>
+                  <p>With an <hi>exact agreement</hi> to this Doctrine is her <note place="margin">From <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Li<g ref="char:EOLhyphen"/>turgy.</note> Liturgy compoſed. And becauſe (according to the Apoſtles Exhortation) <hi>firſt of all</hi> (as a duty never to be neglected) <hi>ſupplications and prayers, and interceſ<g ref="char:EOLhyphen"/>ſions,</hi> 
+                     <note place="margin">1 Tim 2. 12.</note> 
+                     <hi>and giving of thanks are to be made for all men, for Kings and for all that are in authority:</hi> there are none of Her Services of <hi>daily</hi> or <hi>weekly</hi> uſe wherein
+<pb n="11" facs="tcp:96670:7"/> her Prince is not <hi>particularly</hi> remembred, and the Al<g ref="char:EOLhyphen"/>mighty Protection of Heaven <hi>earneſtly</hi> deſired to be his <hi>continual defence:</hi> Nay, all the bleſſings in the world, but eſpecially what concern <hi>his Place and Sta<g ref="char:EOLhyphen"/>tion</hi> are the matter of his Subjects prayers. (<note n="a" place="margin">Second Pray<g ref="char:EOLhyphen"/>er before the Communi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n, and the Pray<g ref="char:EOLhyphen"/>er for the Church M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>li<g ref="char:EOLhyphen"/>tan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>) That <hi>He may be inſtructed for Government;</hi> (<note n="b" place="margin">Verſicle af<g ref="char:EOLhyphen"/>ter the C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed.</note>) <hi>Preſer<g ref="char:EOLhyphen"/>ved in His Perſon;</hi> (<note n="c" place="margin">D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y Prayer</note>) <hi>Repleniſhed with Hea<g ref="char:EOLhyphen"/>venly Graces;</hi> (<note n="d" place="margin">Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>any Ser<g ref="char:EOLhyphen"/>vice.</note>) <hi>Prove victorious over his Enemies:</hi> And as <hi>Two</hi> of theſe fall within the compaſs of Her conſtant Morning and Evening Devotions, ſo a <hi>Third</hi> is added <hi>three times</hi> in the week, and all of them uſed every Sunday and Holiday. A piece of duty which with ſome inſtead of a juſt applauſe hath met with ſevere cenſures, and been cavelled at like <hi>Maries Box of oyntment</hi> by <hi>Judas, To what purpoſe was this</hi> 
+                     <note place="margin">Matt. 26. 8.</note> 
+                     <hi>waſte?</hi> a thing whereof our bleſſed Martyr took e<g ref="char:EOLhyphen"/>ſpecial notice, as a reaſon why ſo many Zealots of the times were eagerly bent againſt the Publick Service. <hi>One of the greateſt faults, ſome men found with the</hi> 
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>Common Prayer Book I believe was</hi> This, <hi>that it taught them to pray</hi> ſo oft <hi>for me, to which Petitions they had not loyalty enough to ſay Amen.</hi> Not doth the Church onely teach us to pray for the King, but to do it with an acknowledgment of <hi>His Soveraign Authority,</hi> and ſubjection to <hi>none</hi> but God himſelf: whom therefore ſhe ſtiles <hi>The only Ruler of Princes.</hi> To all this may be added, that in ſome of thoſe Prayers made for Him we are alſo enjoyned to implore Gods mercy for the keeping his People in their <hi>Allegeance,</hi> that they may obey him as the Almighties <hi>Vicegerent.</hi> (<note n="a" place="margin">Firſt Prayer before the Commu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion.</note>) <hi>That we and all his ſubjects duly conſidering</hi> whoſe authori<g ref="char:EOLhyphen"/>ty he hath, <hi>may faithfully ſerve, honour, and humbly obey him</hi> in Thee and for Thee. In a word, our Pray<g ref="char:EOLhyphen"/>ers
+<pb n="12" facs="tcp:96670:8"/> for their fulneſs &amp; loyalty ſeem excellently framed after the Pattern of the Primitive Church, as owned by <hi>Tertullian:</hi> (<note n="b" place="margin">
+                        <hi>Precati ſumus ſemper pro omnibus Imperatoribus, vitam illis prolixam, impe<g ref="char:EOLhyphen"/>rium ſecurum, domum tu<g ref="char:EOLhyphen"/>tam exercitus for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es, ſena<g ref="char:EOLhyphen"/>tum fidelem, orbem quie<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>: &amp; quaecunque homi<g ref="char:EOLhyphen"/>nis &amp; Caeſaris vota ſunt. Tertul. Apolog. cap,</hi> 30</note>) <hi>We pray at all times for all Emperors, that they may have Long Life, a Secure Empire, a Safe Palace, Valiant Armies, a Faithful Senate, an Honeſt People, a Quiet World: and whatſoever each of them can deſire either as a Man or a Prince.</hi>
+                  </p>
+                  <p>Paſs we now from her Liturgy to her <hi>Eccleſiaſtical</hi> 
+                     <note place="margin">From the Ca<g ref="char:EOLhyphen"/>nons of the Church.</note> 
+                     <hi>Conſtitutions</hi> agreed upon in a full Convocation 1603, and then ratified by Royal Authority; where the <hi>firſt</hi> thing determined is this very Particular. <hi>All Eccle<g ref="char:EOLhyphen"/>ſiaſtical</hi> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Can. </seg>1</label> 
+                     <hi>perſons having cure of Souls, ſhall to the utter<g ref="char:EOLhyphen"/>moſt of their Wit, Knowledge, and Learning, purely and ſincerely, Teach, Manifeſt, Open and Declare</hi> four times a year <hi>(at the leaſt) in their Sermons—That the Kings Power within his Realms—is the higheſt Power under God; to whom all men do by Gods Law owe moſt Loyalty and Obedience Afore and Above all other Power and Potentates in the Earth.</hi> Now certainly if the In<g ref="char:EOLhyphen"/>cumbents are obliged thus to <hi>Preach,</hi> it is an argu<g ref="char:EOLhyphen"/>ment this is the received Doctrine of the Church; and the deſign of this Duty impoſed upon them is that the People committed to their charge may be in<g ref="char:EOLhyphen"/>ſtructed therein for the conviction of their Judgments, and the regulation of their Practice. Nay leſt ſuch Teaching ſhould not produce an effect anſwerable to the deſires of theſe good men, but people ſhould ſtill take a liberty of Believing and Aſſerting <hi>what they liſt;</hi> there is a ſevere <hi>Cenſure</hi> to be inflicted upon ſuch ir<g ref="char:EOLhyphen"/>regular <label type="milestone">
+                        <seg type="milestoneunit">Can. </seg>2</label> perſons for their puniſhment. <hi>Whoſoever ſhall affirm that the Kings Majeſty hath not the ſame</hi>
+                     <pb n="13" facs="tcp:96670:8"/> 
+                     <hi>Authority in Cauſes Eccleſiaſtical</hi> (for in <hi>Temporal</hi> our Adverſaries will grant it more than what they can <hi>hook</hi> in by <hi>In ordine ad ſpiritualia) that the godly Kings had among the Jews and Chriſtian Emperors in the Primitive Church</hi> (which is the ſame we plead for) <hi>or</hi> impeach in any part his Regal Supremacy <hi>let him be</hi> Excommu<g ref="char:EOLhyphen"/>nicated. So little do any of our Church Conſtituti<g ref="char:EOLhyphen"/>ons derogate from the Kings Power, that they <hi>eſtabliſh</hi> it, both by their poſitive Command to have it preach<g ref="char:EOLhyphen"/>ed and received as <hi>true Chriſtian Doctrine,</hi> and the Op<g ref="char:EOLhyphen"/>poſers of it thrown out of the Churches Boſom, as <hi>not fit for the Society of Chriſtian men.</hi>
+                  </p>
+                  <p>And now, Sir, I cannot imagine there wants any <note place="margin">From the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<g ref="char:EOLhyphen"/>ctice of her Children.</note> thing for your further ſatisfaction, unleſs it be to con<g ref="char:EOLhyphen"/>ſider how the <hi>Practice</hi> of the Children of this Church hath agreed with the excellent Rules delivered unto them. For although their Miſcarriages could not <hi>juſtly</hi> be charged upon her, yet we ſhall find that theſe Rules have had ſo great an Influence upon them, as they have never <hi>dared</hi> to engage in any concern againſt their Prince, nor ever been <hi>wanting</hi> in the manifeſta<g ref="char:EOLhyphen"/>tion of a due Obedience unto him. Be not therefore (I beſeech you) deceived with the vain Pretences of the Romiſh Party, who tell you openly in ſome of their Books; <hi>There have been more ſeditious Inſurre<g ref="char:EOLhyphen"/>ctions ſince the Reformation of Religion, than were in ſome hundreds of years before;</hi> For as there is no rea<g ref="char:EOLhyphen"/>ſon to take their <hi>bare word</hi> for it, ſo no more are we en<g ref="char:EOLhyphen"/>gaged to vindicate <hi>any</hi> but thoſe of <hi>our own Church.</hi> I dare not undertake to juſtifie all the Proceedings of the <hi>Hugonots</hi> in <hi>France,</hi> much leſs of the Kirk-party in <hi>Scotland;</hi> but for <hi>the Sons of our Holy Mother of Eng<g ref="char:EOLhyphen"/>land,</hi> let them (if they can) produce any Accuſation
+<pb n="14" facs="tcp:96670:9"/> againſt us, and we are ready to ſubmit to a <hi>fair Trial.</hi> The ordinary things pleaded are the <hi>late Rebellion,</hi> and the <hi>Death of our Royal Martyr; neither of which</hi> touch us any further than as our ſins added to the reſt <hi>filled up</hi> the Number, and provoked God to make uſe of <hi>ſuch Inſtruments</hi> for the executing his wrath, as ſtartled not at <hi>the moſt excerable Villanies</hi> in the world. It is noto<g ref="char:EOLhyphen"/>riouſly known how many Perſons of Honour and Qua<g ref="char:EOLhyphen"/>lity (out of <hi>mere conſcience)</hi> attended that poor injured Prince from place to place, during the unnatural War; and paid their Service to his Son (our now Gracious Sovereign) throughout the many years of his calami<g ref="char:EOLhyphen"/>tous Exile. What Numbers <hi>ſpent</hi> their Eſtates, and <hi>ſacrific'd</hi> their Lives with all the <hi>generous Alacrity</hi> in the world to maintein the Diſtreſſed Kings Cauſe, had Hea<g ref="char:EOLhyphen"/>ven given ſucceſs to their loyal Endeavours? How many Thouſands might we reckon up, who <hi>fought valiantly, fell gallantly</hi> and <hi>ſpent their deareſt bloud</hi> in the aſſerting his Majeſties juſt Rights againſt all the Abettors of Re<g ref="char:EOLhyphen"/>bellion? Whereas thoſe who either <hi>fomented the War</hi> or were afterwards <hi>active</hi> in the <hi>carrying it on,</hi> had <hi>receded</hi> from true Proteſtant Principles, and ſucked in thoſe <hi>pernicious Doctrins</hi> from <hi>Scotland,</hi> which ſhe had <hi>infectiouſly</hi> drawn either from <hi>Rome</hi> or <hi>Geneva.</hi> It is not barely upon my own credit that this Truth begs your Belief, take it from King <hi>Charles</hi> his incomparable Pen; (who being the <hi>Sufferer</hi> might beſt diſtinguiſh between his Friends and Foes.) <hi>The Scandal of the</hi> late Troubles <hi>which ſome may object and urge to you</hi> (wri<g ref="char:EOLhyphen"/>ting to the then Prince of <hi>Wales) againſt the Proteſtant Religion eſtabliſhed in</hi> England, <hi>is eaſily anſwered to them or your own thoughts in this, that</hi> ſcarce any one <hi>who hath been a</hi> Beginner <hi>or an</hi> active Proſecutor <hi>of this</hi>
+                     <pb n="15" facs="tcp:96670:9"/> 
+                     <hi>late War againſt the Church, the Laws and Me, either</hi> was or is a true Lover, Embracer or Practiſer of the Proteſtant Religion; <hi>which neither</hi> gives ſuch Rules, <hi>nor</hi> ever before ſet ſuch Examples. And for the Death of that Royal Martyr (the <hi>remembrance</hi> whereof we ſo much deteſt as to keep an <hi>Anniverſary Humilia<g ref="char:EOLhyphen"/>tion</hi> upon that day) Malice itſelf dares not <hi>lay</hi> it at our Door. But if you would indeed be ſatisfied what miſchievous Wretches carried on this bloudy Deſign, brought Majeſty to <hi>bleed</hi> on the Scaffold, and openly acted ſuch a piece of <hi>Villany,</hi> as the Sun never beheld <hi>ſince Chriſts Crucifixion:</hi> They were in plain terms the Papiſts and the Sectaries: who (like <hi>Sampſon</hi>'s Foxes) have their Tails <hi>tied together,</hi> though their Heads ſeem far aſunder. For the <hi>Papiſts</hi> I ſhall ſatisfie you in their Activity afterward. For the <hi>Sectaries,</hi> the Proof againſt them is but <hi>too evident;</hi> and for thoſe of the <hi>more re<g ref="char:EOLhyphen"/>fined ſort,</hi> who have confidence enough (with <hi>Pilate)</hi> to <hi>call for water</hi> and <hi>waſh their hands,</hi> and ſay <hi>they are innocent from his bloud;</hi> yet their own Actions teſtifie againſt them both <hi>before</hi> and <hi>after</hi> that dreadful Blow was given. And what horrid Encouragements <hi>to</hi> and Juſtifications <hi>of</hi> that abominable Act fell from the Mouths of thoſe who were then the <hi>Godly Preachers of the Goſpel,</hi> remain upon Record. Not to ſurfeit you with ſuch coarſe Diet, take but a <hi>Taſt</hi> in two or three paſſages of ſome <hi>eminently eſteemed Perſons;</hi> though their <hi>Names</hi> ſhall be ſpared. When <hi>Meroz</hi> had been <hi>curſed</hi> from <hi>one Faſt-Day to another,</hi> and thereby men <hi>ſeduced</hi> to take Arms againſt their Prince, called (in their <hi>ſacred Dialect) Agoing to the help of the Lord a<g ref="char:EOLhyphen"/>gainſt the Mighty:</hi> Then were the people of this King<g ref="char:EOLhyphen"/>dom poſſeſſed with <hi>ſtrange Apprehenſions</hi> of the King
+<pb n="16" facs="tcp:96670:10"/> and his Party; ſome telling us it was their Deſign to <hi>root out all Religion. I know</hi> (ſaith <hi>one</hi> among them) <hi>how unſatisfied many are concerning the unlawfulneſs of the War which hath been managed,—As I cannot yet per<g ref="char:EOLhyphen"/>ceive by any thing they object, but that we undertook our Defence upon</hi> warrantable Grounds, <hi>ſo am I moſt certain that God hath wonderfully appeared through the whole. And as I am certain by</hi> ſight <hi>and</hi> ſenſe, <hi>That</hi> the Extir<g ref="char:EOLhyphen"/>pation of Piety was the then great Deſign,<hi>—So am I moſt certain that this was the Work which we took up Arms to reſiſt.—The fault was that we would not</hi> die quietly, <hi>nor</hi> lay down our Necks more gently up<g ref="char:EOLhyphen"/>on the Block, <hi>nor more willingly change the Goſpel for</hi> Ignorance, <hi>nor our Religion for a</hi> Fardle of Ceremonies: with ſeveral things to the ſame purpoſe. <hi>Others</hi> de<g ref="char:EOLhyphen"/>clared their Fears of a Tyrannical and Arbitrary Go<g ref="char:EOLhyphen"/>vernment, but the <hi>greateſt Number</hi> like the unruly Aſ<g ref="char:EOLhyphen"/>ſembly at <hi>Epheſus, knew not wherefore they were ga<g ref="char:EOLhyphen"/>thered</hi> 
+                     <note place="margin">Acts 19. 32.</note> 
+                     <hi>together.</hi> When the Sword had for <hi>ſome years</hi> been <hi>glutted</hi> with Bloud, mens minds (at leaſt) ap<g ref="char:EOLhyphen"/>peared a little more compoſed, Offers of Peace were made and a Treaty managed, where <hi>Another</hi> (whom <hi>afterwards</hi> his Maſters rewarded but <hi>unkindly)</hi> uttered theſe <hi>bitter Expreſſions</hi> in his Sermon: <hi>Whilſt our Ene<g ref="char:EOLhyphen"/>mies go on in their wicked Practices, and whilſt we keep our Principles, we may</hi> as ſoon make Fire and Water to agree, <hi>and (I had almoſt ſaid)</hi> reconcile Heaven and Earth, <hi>as their ſpirits and ours: Either they muſt grow</hi> better, <hi>or we muſt grow</hi> worſe, <hi>before it is</hi> poſſible for us to agree. Where I cannot omit the Obſervation of an <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. <hi>l.</hi> 3, <hi>c.</hi> 2. <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</note> Ingenious Gentleman that our <hi>Dear Prince</hi> was behead<g ref="char:EOLhyphen"/>ed juſt <hi>the day</hi> four years aften this Sermon was preach<g ref="char:EOLhyphen"/>ed. This and <hi>ſuch like Stuff</hi> ſtruck at length the Kings
+<pb n="17" facs="tcp:96670:10"/> Head from his Shoulders, and (though ſome <hi>upon ſight of their Errors</hi> repented, yet) when a diſorderly Go<g ref="char:EOLhyphen"/>vernment had for ſeveral years appear'd among us in <hi>monſtrous ſhapes,</hi> ſtill the doings of thoſe Uſurpers were commended by <hi>others,</hi> and <hi>large Harangues</hi> made upon ſolemn occaſions to expreſs the <hi>Nations Happineſs</hi> un<g ref="char:EOLhyphen"/>der them. <hi>One</hi> more particularly I have taken notice of, and <hi>not a little</hi> wondred at. <hi>Worthy Patriots</hi> (ſaith the <hi>Preacher,</hi> Anno 1656.) <hi>you that are Rulers in this Parliament, 'tis often ſaid we live in times wherein we may be as good as we pleaſe; wherein we enjoy in purity and plenty the Ordinances of Jeſus Chriſt. Praiſed be God for this, even that God who hath delivered us from the Impoſition of Prelatical Innovations, Altar-Genufle<g ref="char:EOLhyphen"/>xions, and Cringings with Croſſings, and all that Popiſh Traſh and Trumpery. And truly (I ſpeak no more than what I have</hi> often thought and ſaid) <hi>the removal of theſe unſupportable Burdens countervails</hi> for the Bloud <hi>and</hi> Treaſure <hi>ſhed and ſpent in</hi> theſe late Diſtractions. Did the Gentleman (think you) remember that the King was <hi>murthered</hi> almoſt <hi>eight years</hi> before this Pulpit-Careſs? And did the Removal of thoſe Burdens <hi>countervail</hi> for <hi>his Bloud</hi> too?) <hi>Nor did I as yet ever hear of</hi> any godly men <hi>that deſired (were it poſſible) to purchaſe their Friends</hi> (ſure that bleſſed King had <hi>a great many good men</hi> that were <hi>his Friends) or Money again at ſo Dear a Rate as with the</hi> Return of theſe, <hi>to have thoſe ſoul-burdening Antichriſtian Yokes impoſed upon us.</hi> (So that though the King was <hi>barbarouſly</hi> taken from us, yet <hi>better loſe him,</hi> than have a Reſettlement of the antient Church-Service and Diſcipline; for any other Thoughts would argue the <hi>wickedneſs of our Hearts) If</hi> any ſuch <hi>there be, I am ſure that Deſire is</hi> no part of their Godlineſs, <hi>and</hi>
+                     <pb n="18" facs="tcp:96670:11"/> 
+                     <hi>I profeſs my ſelf in that to be none of the Number.</hi> By theſe <hi>three</hi> Teſtimonies from the Pens of <hi>three great Perſons,</hi> you may judge how far that Party was concer<g ref="char:EOLhyphen"/>ned in the <hi>bloudy and dreadful Tragedy.</hi> And now, I ſuppoſe you will favourably allow the <hi>firſt of my Aſ<g ref="char:EOLhyphen"/>ſertions</hi> proved: <hi>The ſtrict Obedience charged by the Church of</hi> England <hi>upon all her Children.</hi>
+                  </p>
+                  <p>The <hi>ſecond</hi> will as <hi>evidently</hi> appear, <hi>That the Church</hi> 
+                     <note place="margin">
+                        <hi>Prop.</hi> II.</note> 
+                     <hi>of</hi> Rome <hi>allows thoſe of her Communion</hi> an unreaſonable Latitude <hi>in the ſame point of Obedience and Duty;</hi> free<g ref="char:EOLhyphen"/>ing them from the Obligations which God hath laid upon the <hi>Conſcience:</hi> for it is plain, that <hi>ſhe exempts her Eccleſiaſtics from the Juriſdiction of the Civil Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> referring them <hi>altogether</hi> to the Popes Cenſure upon the Commiſſion of any fault. She <hi>maintains thoſe</hi> pernitious Doctrins <hi>of Excommunicating, Depoſing and murdering Kings for promoting the Cauſe of Religion.</hi> She <hi>allows the Pope a Power of abſolving all Subjects from their Allegiance, and gives him a Right to diſpoſe of the Kingdoms of Heretical Princes.</hi> And if we look upon the <hi>Practices of the Romaniſts</hi> we ſhall find them <hi>ex<g ref="char:EOLhyphen"/>actly fitted to theſe Maxims;</hi> that they <hi>have been, are,</hi> and in all probability <hi>will be</hi> a <hi>Turbulent ſort of people; deſpiſing Dominions and ſpeaking evil of Dignities.</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e 8.</note>
+                  </p>
+                  <p>
+                     <hi>For the Exemption of Eccleſiaſtical Perſons from the</hi> 
+                     <note place="margin">Proved <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. By the Ex<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ption of Ec<g ref="char:EOLunhyphen"/>cl<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>aſtics from <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <hi>civil <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ower.</hi>
+                     </note> 
+                     <hi>Civil Magiſtrates Juriſdiction,</hi> it is a <hi>received Doctrin</hi> among them. In their ſo much famed Council of <hi>Trent,</hi> when the Fathers there fell upon the Reformation of Princes, ſeveral things were upon the Wheel. Like careful men of themſelves they propounded largely in favour of Eccleſiaſtical Immunities. <hi>That ſuch Perſons might not be judged in a Secular Court, though</hi>
+                     <pb n="19" facs="tcp:96670:11"/> 
+                     <hi>there ſhould be</hi> ſome doubt <hi>of their</hi> Clerkſhip, <hi>or though</hi> 
+                     <note place="margin">Hiſtory of the <hi>Council</hi> of <hi>Trent l.</hi> 8 <hi>p.</hi> 769 770.</note> 
+                     <hi>themſelves conſent, notwithſtanding it were under pre<g ref="char:EOLhyphen"/>tence of Public <g ref="char:V">Ʋ</g>tility or Service of the King. That neither the Emperour, Kings, nor any Prince whatſoever ſhould make Edicts or Conſtitutions in what manner ſo<g ref="char:EOLhyphen"/>ever concerning</hi> Eccleſiaſtical Cauſes or Perſons, <hi>nor meddle with</hi> their Perſons, Cauſes, Juriſdictions <hi>or</hi> Tribunals <hi>(no not in the</hi> Inquiſition) <hi>but ſhall be bound to afford the</hi> Secular Arm <hi>to Eccleſiaſtical Judges. That the Temporal Juriſdiction of the Eccleſiaſtics (though with mere and mixt power) ſhall not be diſturbed, nor</hi> their Subjects <hi>drawn to the</hi> Secular Tribunal <hi>in</hi> Cauſes Temporal. All that excellent Device concluding with a Command under the pain of <hi>Anathema,</hi> That <hi>No Prince ſhould either directly or indirectly under</hi> any Pretence whatſoever, <hi>ſuffer any thing to be Enacted againſt the Perſons or Goods of the Clergy or againſt their Liberty, any Priviledges or Exemptions (though</hi> Immemorial) <hi>notwithſtanding.</hi> It is true this was oppoſed, and ſo <hi>in ſome meaſure</hi> quaſhed by the brisk<g ref="char:EOLhyphen"/>neſs of the Emperours and French Kings Embaſſadors, and thereby proceeded not to the <hi>height</hi> they deſigned; however it argued the <hi>daring Confidence</hi> of the At<g ref="char:EOLhyphen"/>tempters, the aſſurance they had of <hi>favourable Rece<g ref="char:EOLhyphen"/>ption</hi> at <hi>Rome,</hi> and the Priviledges they either ought or <hi>would willingly</hi> have enjoyed. And whatſoever paſſed, they gained a great deal more than either they deſerved or could challenge. But to omit what can be gathered from <hi>this Flouriſh,</hi> and not inſiſt upon things <hi>dubious;</hi> we refer the Cauſe to <hi>Bellarmin,</hi> and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fer to ſtand to his Arbitrement: <hi>The</hi> 
+                     <note place="margin">
+                        <hi>No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> poſſunt Cleric<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ri judica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iam ſi l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ges Civiles no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. l. de Cle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>icis, l. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. c. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, p. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p 3.</note> 
+                     <hi>Clergy</hi> (ſaith he) <hi>cannot be judged before a Secular Magiſtrate, though they</hi> obſerve not
+<pb n="20" facs="tcp:96670:12"/> the Laws <hi>in Civil Affairs,</hi> for that I ſuppoſe he means by <hi>Leges Civiles.</hi> And when upon further diſcourſing the Point, he mentions the Apoſtles indiſpenſable Charge, <hi>Let every ſoul be ſubject to the higher Powers,</hi> 
+                     <note place="margin">Rom 13. 1.</note> I muſt confeſs his Anſwer to it is as much <hi>below himſelf,</hi> (had not his Intereſt been concerned) as can poſſibly be imagined. He will have <hi>that way of ar<g ref="char:EOLhyphen"/>guing to conclude nothing,</hi> becauſe ſometimes <hi>one</hi> Pow<g ref="char:EOLhyphen"/>er <note place="margin">Nihil e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ioci<g ref="char:EOLhyphen"/>natio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e. o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>li. d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> is higher, ſometimes <hi>another.—</hi>But be it as it will, the Pope <hi>never loſeth</hi> his Power therefore he in<g ref="char:EOLhyphen"/>fers, <hi>Becauſe the Biſhop of</hi> Rome <hi>hath ex<g ref="char:EOLhyphen"/>empted</hi> 
+                     <note place="margin">
+                        <hi>Quo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iam ſummus Pontifex Clericos o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s exemit à ſub<g ref="char:EOLhyphen"/>jectione Principum Secula<g ref="char:EOLhyphen"/>rium, ſequitur ut reſpectu Cleric. rum, Principes non ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t poteſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s ſuperiores: ac <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>roinde non teneantur Cle<g ref="char:EOLhyphen"/>rici Pri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cipi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rere ne<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> jure humano nec Divino.</hi> Idem ibid. <hi>p.</hi> 327. Edit. Celon. Agripp n.</note> all Eccleſiaſtics <hi>from Subjection to the Secular Princes, it follows that</hi> in re<g ref="char:EOLhyphen"/>ſpect of thoſe Church-men <hi>they are</hi> not <hi>the higher Powers, and conſequently the Church<g ref="char:EOLhyphen"/>men</hi> are not obliged to obey them <hi>by</hi> any Law <hi>either Divine or Humane:</hi> except only in ſome trivial matters (which he there calls <hi>Leges Directivae)</hi> ſuch as a mans not ſtirring out of doors after a particular hour without his Sword by his ſide, and a Light in his hand, <hi>&amp;c.</hi> In theſe petty Trifles they will out of <hi>good nature</hi> obey the King, but for any things of greater concern, therein they <hi>beg excuſe</hi> to be <hi>out of his reach.</hi> So that in plain terms at this rate all the Clergy in every Kingdom are left at Liberty whether they will be <hi>Loyal</hi> or no, and the Prince ſhall wholly loſe his Coercive Power over a <hi>conſiderable part</hi> of his Subjects. So that ſome<g ref="char:EOLhyphen"/>times it may happen there ſhall not only be a <hi>Refuſal</hi> of Obedience to, but a <hi>downright Reſiſtance</hi> of his Commands. Inſtances hereof are numerous. How <hi>ſaucily</hi> did <hi>Anſelm</hi> carry to King <hi>Rufus,</hi> and <hi>Thomas Becket</hi> to <hi>Henry</hi> the Second, till the <hi>one</hi> died abroad,
+<pb n="21" facs="tcp:96670:12"/> and the <hi>other</hi> was killed at home? And upon every occaſion it would happen ſo ſtill: The Clergy be<g ref="char:EOLhyphen"/>lieving themſelves <hi>freed</hi> from any Puniſhment their Prince could inflict, and knowing full well that upon an Appeal to <hi>Rome,</hi> the <hi>Sentence</hi> would ſurely paſs <hi>in favour of the Church.</hi> Or let it but once come to a Conteſt, that the <hi>Pope</hi> enjoyns <hi>one thing,</hi> the King <hi>another;</hi> the Pope paſſeth <hi>ſuch a Decree,</hi> the King <hi>gainſays</hi> it; who ſhall prevail? Shall not the <hi>Pope?</hi> becauſe the Church-men are under <hi>his Laſh,</hi> but ex<g ref="char:EOLhyphen"/>empted from the <hi>Kings;</hi> nor will they in reaſon be <hi>eaſily</hi> drawn to provoke him who both <hi>can</hi> and <hi>will,</hi> for <hi>another mans ſake</hi> who neither <hi>muſt</hi> nor <hi>dare</hi> cor<g ref="char:EOLhyphen"/>rect them. So that in effect they are but <hi>titularly</hi> Subjects, and will ſo far be dutiful to the King, as their <hi>own good Inclinations</hi> ſhall prompt them. Now how can he expect to be <hi>ſecured in his Throne</hi> by thoſe perſons, who are not under his Juriſdiction? In caſe their Holy Father for <hi>ſome particular pique</hi> at him, or to gratifie a <hi>beloved Nephew,</hi> declare him an <hi>Heretic,</hi> that he may <hi>diſpoſe</hi> of his Kingdom, <hi>theſe good Children</hi> muſt needs tread in his Steps, and <hi>do</hi> as <hi>he bids</hi> them; they being according to their own Principles, as much obliged to take part <hi>againſt,</hi> as our Religion would teach us to take part <hi>with our Prince</hi> notwithſtanding all oppoſition in the world. Beſides, theſe <hi>Eccleſiaſtical Immunities drain</hi> a great deal of <hi>wealth</hi> out of each Kingdom, which might better be laid up in the Kings Exchequer. All the Profit of Collations to Benefi<g ref="char:EOLhyphen"/>ces, Firſt-Fruits, Tenths and ſeveral other Duties of that kind, theſe the Pope <hi>hoords up</hi> in his own Cof<g ref="char:EOLhyphen"/>fers; a Grievance whereof this particular Nation was ſo ſenſible, that open Complaint was made againſt it <note place="margin">
+                        <hi>Temp.</hi> Hen. III</note>
+                     <pb n="22" facs="tcp:96670:13"/> in Parliament: for ſuch vaſt Sums were ſent away out of this little Kingdom from one time to another, that the People were much impoveriſhed to make it what he called it, <hi>Puteus inexhauſtus,</hi> a Well not to be drawn <hi>dry:</hi> So that it is ſtrangely wonderful how the Princes <hi>abroad</hi> to this very day, bear <hi>ſo great an Impoſition</hi> upon them, and ſubmit to ſuch a <hi>Diminu<g ref="char:EOLhyphen"/>tion</hi> of their Authority; ſo contrary to the <hi>Rule of Scripture,</hi> ſo without <hi>all Precedent</hi> from <hi>Antiquity</hi> (un<g ref="char:EOLhyphen"/>leſs <hi>one ſpurious Paſſage</hi> palpably <hi>foiſted</hi> into <hi>Ignatius</hi> his Epiſtles) ſo <hi>Dangerous</hi> to the <hi>peaceable ſtate</hi> of their ſeveral <hi>Countreys,</hi> and ſo <hi>Inconſiſtent</hi> with the <hi>Obedience</hi> owing to <hi>their own perſons.</hi>
+                  </p>
+                  <p>But it were ſomething tolerable if this might prove <note place="margin">II. By teaching the lawfulneſs to excommunicate <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> &amp; mur<g ref="char:EOLhyphen"/>ther Kings for Religion.</note> the <hi>worſt;</hi> ſo far is the <hi>Romiſh</hi> Religion from enjoyn<g ref="char:EOLhyphen"/>ing Obedience to Princes, that it <hi>teacheth thoſe perni<g ref="char:EOLhyphen"/>cious Doctrins of the Lawfulneſs to excommunicate, de<g ref="char:EOLhyphen"/>poſe and murther Kings, if their Religion may thereby be promoted.</hi> So that not only the Clergy but the Princes too lie at the <hi>Popes mercy.</hi> His Fingers indeed have long <hi>itched</hi> to be <hi>medling with Crowns,</hi> and therefore he employs his Agents abroad to whiſper theſe <hi>Devi<g ref="char:EOLhyphen"/>liſh Maxims</hi> into peoples Ears. Now when the <hi>grave Fathers</hi> of the Church <hi>teach</hi> and their <hi>ſeduced Children</hi> admit them for <hi>Truths,</hi> no marvel if the King ſits <hi>uneaſie</hi> in his <hi>Throne,</hi> and his <hi>Scepter</hi> be ready to <hi>fall</hi> out of his <hi>Hand.</hi> For ſatisfaction herein I refer you to <hi>Bellarmine</hi> again (for no mans <hi>Credit</hi> is <hi>better</hi> in that Church) <hi>Three</hi> Chapters he ſpends very eagerly in one Book upon this Subject, <hi>fending</hi> and <hi>proving</hi> (according to our Proverb) with might and main. <hi>The</hi> 
+                     <note place="margin">
+                        <hi>D<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ontifex R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bus juber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c faci<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> niſi f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt etiam cogere per excommunicati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nem al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> commodas rationes.</hi> Bellarm. de R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m. Pont. <hi>l.</hi> 5. <hi>c.</hi> 7. <hi>p</hi> 505.</note> 
+                     <hi>Pope,</hi> ſaith he, <hi>muſt command Kings to do theſe things,</hi>
+                     <pb n="23" facs="tcp:96670:13"/> (things relating to the Service of God) <hi>and if they do them not, to compel them by Excommunication and other commodious ways.</hi> This is pretty ſmart, but all the while ſure there is no fear of <hi>altering</hi> his Property or <hi>taking</hi> that Dominion from him which God had given? Yes there may be Reaſon for that too, if the Cauſe of Religion require the doing it. <hi>The Pope may</hi> 
+                     <note place="margin">
+                        <hi>Papa poteſt mutare Regn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; uni a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ferre at que alters conferre (tanquam ſummus princ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ps spiritu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lis) ſi id neceſſarium ſit ad animarum ſalutem.</hi> Idem <hi>c.</hi> 6. <hi>p</hi> 901.</note> 
+                     <hi>make an Alteration in Kingdoms dethroning one man and exalting another (as being the greateſt ſpiritual Prince) if it be neceſſary for the good of ſouls.</hi> And this unlimited Power he en<g ref="char:EOLhyphen"/>deavours to defend by a great many Authorities. Nor may he only <hi>exerciſe</hi> this ſtrange kind of <hi>Prero<g ref="char:EOLhyphen"/>gative,</hi> but the good Subjects alſo muſt be ſo much concerned for the Catholic Cauſe, as to ſet themſelves againſt their Heretical Ruler. <hi>Chriſtians are</hi> 
+                     <note place="margin">
+                        <hi>Non tenentur Chriſtiant in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> non debeat cum evidente pe<g ref="char:EOLhyphen"/>riculo Religionis tolerare re<g ref="char:EOLhyphen"/>gem infidelem.</hi> Idem <hi>p</hi> 94.</note> 
+                     <hi>not bound, indeed they ought not to</hi> tolerate <hi>unbelieving King</hi> (and all of our Principles are with them no better than Infidels) <hi>if Religi<g ref="char:EOLhyphen"/>on be in any apparent danger.</hi> They muſt not tolerate him, but how ſhall it be helped? There is ſcarce any Remedy left but the <hi>depoſing</hi> him; and then to make <hi>ſure work</hi> they muſt either put him into a <hi>ſafe Priſon</hi> or ſend him into a <hi>cold Grave.</hi> Now leſt this Poſition of his ſhould be decried as ſtrange and novel, being ſo contrary to the practice of the <hi>Primitive Chri<g ref="char:EOLhyphen"/>ſtians,</hi> who (without queſtion) were the <hi>beſt Subjects</hi> in the world; he preſently anſwers, that they were not either to be <hi>thanked for</hi> or <hi>imitated</hi> in their Obe<g ref="char:EOLhyphen"/>dience; ſince it was matter of <hi>Conſtraint</hi> rather than Choice; And <hi>if they depoſed not</hi> Nero <hi>the Cruel,</hi> 
+                     <note place="margin">
+                        <hi>Quod ſi Chriſti<g ref="char:EOLhyphen"/>ani olim non de<g ref="char:EOLhyphen"/>poſuerunt Neronem &amp; Diocleſianum &amp; Julianum Apoſtatam &amp; Valentem Arrianum, &amp;c. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d fuerit quia deerant vires temporales Chriſtianis.</hi> Idem <hi>c</hi> 7. <hi>p.</hi> 904.</note>
+                     <pb n="24" facs="tcp:96670:14"/> 
+                     <hi>or</hi> Diocleſian <hi>the Perſecutor, or</hi> Julian <hi>the Apoſtate, or</hi> Valens <hi>the Arrian,</hi> their <hi>Weakneſs,</hi> not their Will was to be blamed; their <hi>Inclinations</hi> were <hi>for</hi> it, but their want of Power perſuaded them <hi>againſt</hi> it; which methinks is ſtrangely contrary to the account the Fa<g ref="char:EOLhyphen"/>thers of thoſe Ages give us, whoſe Religion had taught them rather to <hi>ſuffer</hi> than rebel. <hi>This is the ſum of</hi> 
+                     <note place="margin">
+                        <hi>Hac noſtrae Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſtianitatis ſumm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> eſt ut amantibus vi<g ref="char:EOLhyphen"/>ciſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>udinem, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ae<g ref="char:EOLhyphen"/>dentibus patien<g ref="char:EOLhyphen"/>tiam repend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>mus.</hi> Ambroſ. <hi>ſerm.</hi> 10.</note> 
+                     <hi>our Chriſtianity</hi> (ſaith he whom <hi>Bellarmine</hi> himſelf mentions as a <hi>ſtickler</hi> in theſe caſes) <hi>that we return love again to thoſe who love us, and</hi> exerciſe patience <hi>towards thoſe who injure us.</hi> Let me then ſeriouſly ask, Can any Prince in the world be ſafe whoſe fears and jealouſies are thus ſtrong to diſtract him? who hears ſuch doctrine buzzed into his Peoples heads as may quickly ſtrike the <hi>Crown from his head,</hi> and open a paſſage to fetch <hi>the breath from his body?</hi> that ſhall give his People ſuch an <hi>head</hi> againſt him, as they may diſobey his Commands, reſiſt his Authority, and ſhake off all Allegeance, as if they were no more con<g ref="char:EOLhyphen"/>cerned in him than a ſtranger? yet the Pope can with the ſame eaſe disburden the Peoples Conſcience, that he can deſtroy the Kings Authority. Certainly theſe Tenets muſt make Princes very <hi>weak,</hi> and the Mul<g ref="char:EOLhyphen"/>titude very <hi>ſtrong,</hi> who are unruly at <hi>beſt,</hi> but much more <hi>troubleſome</hi> when they can pretend a <hi>plauſible ex<g ref="char:EOLhyphen"/>cuſe</hi> to be ſo, Every thing they <hi>like not</hi> ſhall preſent<g ref="char:EOLhyphen"/>ly be a <hi>grievance;</hi> and if they can but <hi>faſten</hi> the <hi>leaſt ſeeming</hi> challenge againſt their <hi>King,</hi> they will quickly employ the <hi>liberty</hi> given them of <hi>ſtarting back</hi> in their Obedience; or perhaps they may not only prove guil<g ref="char:EOLhyphen"/>ty of <hi>denying</hi> their known duty, but of practicing <hi>ſe<g ref="char:EOLhyphen"/>ditiouſly</hi> againſt, and (if that will not ſerve turn) of <hi>aſſaſſinating</hi> him at laſt. Whether theſe late Ages
+<pb n="25" facs="tcp:96670:14"/> have not afforded <hi>ſuch examples</hi> let thoſe who are converſant in hiſtory determine.</p>
+                  <p>Their <hi>Doctrine</hi> of <hi>Excommunicating, Depoſing,</hi> and <note place="margin">III. By giving the Pope power to diſpoſe of Kingdoms, and abſolve S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b<g ref="char:EOLhyphen"/>jects f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om their Allege<g ref="char:EOLhyphen"/>ance.</note> 
+                     <hi>Murdering</hi> Kings doth <hi>bravely</hi> make way for <hi>ſetting up</hi> the Pope as a <hi>Dominus fac totum,</hi> to <hi>give him a pow<g ref="char:EOLhyphen"/>er to diſpoſe of the Kingdoms of Heretical Princes, and abſolve Subjects from their Allegeance.</hi> For being (as <hi>Bellarmine</hi> calls him) the <hi>chief Spiritual Prince,</hi> all the Kings of Chriſtendom muſt be his <hi>Vaſſals,</hi> and a Ple<g ref="char:EOLhyphen"/>nitude of Eccleſiaſtical power is put into his hands; ſo that if <hi>any of thoſe Kings</hi> carry himſelf <hi>untowardly</hi> to the Church, or chance to <hi>fail</hi> in his duty, preſently a Bull from the Holy Chair proves as fatal to him as the <hi>hand-writing</hi> to <hi>Belſhazzar, his Kingdom is num<g ref="char:EOLhyphen"/>bred and finiſhed; it is taken from him, and given to another. Becanus</hi> hath ſhewed himſelf a <hi>faſt</hi> friend in <note place="margin">
+                        <hi>Pontifex poteſt mandare et diſ<g ref="char:EOLhyphen"/>cernere ut ſub<g ref="char:EOLhyphen"/>diti non tenean<g ref="char:EOLhyphen"/>tur praeſtare fi<g ref="char:EOLhyphen"/>dem Regibus, quando Reges non ſervant ipſis fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>em Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> Controv. <hi>Suarez de fide Cath. lib.</hi> 6 <hi>c.</hi> 2.</note> determining this matter: <hi>The Pope can command and decree that the Subjects ſhall not be engaged to keep faith with their Prince, when the Prince doth not keep faith with them:</hi> (a fine piece of <hi>Conditional Obedience).</hi> Yet doth <hi>Suarez</hi> ſo magnify this Doctrine, that he confi<g ref="char:EOLhyphen"/>dently aſſerts, <hi>whoſoever maintains the contrary doth not only oppoſe the Cuſtoms of the Church, the Approba<g ref="char:EOLhyphen"/>tion of General Councils, and the Conſent of the Catholick Doctors, but he forfeits his very reaſon alſo.</hi> Anſwer<g ref="char:EOLhyphen"/>able to theſe Poſitions in the year 1558. <hi>Paul</hi> the Fourth declared, that <hi>All Prelates and Princes even</hi> Kings and Emperors fallen into Hereſie, <hi>ſhould be, and ſhould be underſtood to be</hi> deprived <hi>of all their Benefices, States, Kingdoms, and Empires without further declaration, and</hi> uncapable to be reſtored, <hi>even by the Apoſtolique ſea;</hi> 
+                     <note place="margin">Hiſtory of the Council of <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rent,</hi> Book 5. pag. 109.</note> 
+                     <hi>and their Goods, States, Kingdoms and Empires ſhould be underſtood to be common, and belong to the Catholicks</hi>
+                     <pb n="26" facs="tcp:96670:15"/> who could get them, which (ſaith my Author) did miniſter much talk, and if it had not been preſently diſeſteemed by the world would have <hi>kindled a fire in all Chriſtendom.</hi> But of all the Romiſh Writers well<g ref="char:EOLhyphen"/>fare <hi>Tho. Bozius,</hi> who makes the Papal power ſo <hi>un<g ref="char:EOLhyphen"/>limited,</hi> that let the Prince be never ſo <hi>harmleſs,</hi> yet if the Pope hath a mind to <hi>take the Scepter</hi> out of his hand, it is but reaſonable he ſhould do ſo; nor is he <hi>in any fault</hi> for exerciſing his Authority. (I give you his words upon the credit of an ingenious Gentle<g ref="char:EOLhyphen"/>man.) <hi>Let a King be never ſo lawfully ſettled</hi> 
+                     <note place="margin">
+                        <hi>Sit a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> quis Rex ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e ſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rs, i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>uſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>us, potens, Ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>o l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, pius; tamen Ponti<g ref="char:EOLunhyphen"/>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>x, (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>piſcopiq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e Pontifi<g ref="char:EOLhyphen"/>ce approb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te) valent huic auferre Regni; alteriq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e nullum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us alioqum habenti, ad jud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re, ubi jud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> modo nec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſari<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m eſſe ſed conven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ens.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>zius.</note> 
+                     <hi>in his Throne, careful, Induſtrious, Powerful, Catholick, Pious; yet the Pope (and the Biſhops by his approbation) may</hi> take from him his Kingdoms, <hi>and</hi> conferre them upon another, <hi>who can lay</hi> no other claim <hi>at all to them, when ſuch an act ſhall not only be judged neceſ<g ref="char:EOLhyphen"/>ſary, but</hi> Convenient. So that upon this ſcore a Prince ſhall not ſo much as have the priviledge of ſtanding upon <hi>his good behaviour,</hi> or be <note place="margin">
+                        <hi>Vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lius</hi> Hi<g ref="char:EOLhyphen"/>ſtory of Popiſh U<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>pations. <hi>li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> 2 <hi>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>p</hi> 1 <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g.</hi> 42.</note> cheriſhed in caſe he <hi>favour</hi> the Catholick Religion, with enjoying what he hath ſecurely; but ſtill if it ap<g ref="char:EOLhyphen"/>pear for the <hi>Romiſh Intereſt,</hi> the Pope may <hi>diſcard</hi> him, and place <hi>a meer ſtranger</hi> in his Throne: and all people are bound to believe it proceeds from very <hi>good reaſon,</hi> and <hi>great juſtice.</hi> I conclude what hath been ſaid con<g ref="char:EOLhyphen"/>cerning theſe <hi>Papal <g ref="char:V">Ʋ</g>ſurpations,</hi> and the ſtrange <hi>ſlavery</hi> whereinto Kings are brought by them, with the words of that learned and pious Prelate, the incomparable Biſhop <hi>Andrews.—This Doctrine</hi> (the ſame whereof <note place="margin">
+                        <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>â hac <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> multa p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cept<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a credo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſto ſu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ntur. Quid enim? Rex Eth<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſt a Pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>â, Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>anus pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſt: meliore erg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> regn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tur apud Eth<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>s Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>m (ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cut eſt) ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>bi. Eth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cus? <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iciſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt officio ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> in R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s lax<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ri <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> at Chriſtia<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>. Quis no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>os ſuos m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hnicos q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>m Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſtia<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>? Quis Chriſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Rex eſſe velit ubi paretur, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ad nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>um Pont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ficis.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 11 pag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</note>
+                     <pb n="27" facs="tcp:96670:15"/> we have been diſcourſing) <hi>once divulged and made com<g ref="char:EOLhyphen"/>mon, there will ſcarce be many Scepters henceforward ſubjected unto Chriſt. And why? becauſe an Heathen King cannot be depoſed by the Pope, a Chriſtian King</hi> may, <hi>doth not then the Heathen reign more ſecurely? who will not hereafter</hi> (as the caſe ſtands) <hi>continue in his Heatheniſm? The Heathen Subjects</hi> cannot be di<g ref="char:EOLhyphen"/>ſpenſed <hi>with in their obedience, the Chriſtians</hi> may: <hi>who then would not rather chuſe to have his Subjects Heathens than Chriſtians? What King would be a Chri<g ref="char:EOLhyphen"/>ſtian where his People ſhall</hi> obey or not obey, <hi>accord<g ref="char:EOLhyphen"/>ing to the Popes Beck and Command.</hi>
+                  </p>
+                  <p>And now according to our former Method, let us <note place="margin">IV. From the pra<g ref="char:EOLhyphen"/>ctices of the Romaniſts.</note> paſs from their Principles to their Practices, which have in all both <hi>Places</hi> and <hi>Ages</hi> been exceedingly <hi>troubleſome,</hi> tending to the diſturbance of each King<g ref="char:EOLhyphen"/>doms <hi>Tranquility,</hi> and the injury of <hi>ſo many Kings,</hi> as either they could or had occaſion to deal with. Not to ſtir out of our own Nation, nor run ſo far back as King <hi>John,</hi> who was miſerably <hi>vexed</hi> with an Imperious Legate, proudly keeping the <hi>Crown</hi> in his poſſeſſion four dayes after it was tendred him by laying it at his feet: and (as many Authors report) afterwards <hi>poiſoned</hi> by <hi>Simon</hi> a <hi>Monk</hi> of <hi>Swinſted Abbey:</hi> I would only deſire you to reflect upon what hath happened <hi>ſince the Reformation.</hi> When that incom<g ref="char:EOLhyphen"/>parable Queen <hi>Elizabeth</hi> began to reign, <hi>Pius</hi> the Fourth ſent a gentle admonitory Letter to perſwade her into an Agreement with the Romiſh Church, and an invitation to ſend her Clerks to the Council of <hi>Trent;</hi> (an Aſſembly ſo <hi>packed,</hi> and the Affairs of it ſo <hi>managed,</hi> that no <hi>good iſſue</hi> could ever be expected from it) but theſe not working the effects he deſired,
+<pb n="28" facs="tcp:96670:16"/> that holy Father proceeds to his <hi>ſeverities.</hi> Out comes a <hi>Bull of Excommunication</hi> long threatned, wherein by the Papal Authority ſhe is deprived of <hi>all</hi> her <hi>Do<g ref="char:EOLhyphen"/>minion</hi> and <hi>Dignity:</hi> Her Nobles, Subjects and People throughout the Kingdom are <hi>abſolved</hi> from <hi>whatſoever Oath of fidelity</hi> they had taken, ſo as it ſhould not lay <hi>any Obligation</hi> upon them. But to make all ſure. The Subjects of her Kingdom are ſeverely interdicted from paying <hi>Any Obedience</hi> to <hi>Her,</hi> Her Lawes, or Commands, and whoſoever ſhould fail in the due obſervance of theſe Injunctions, muſt look to be <hi>fet<g ref="char:EOLhyphen"/>tered</hi> in the ſame <hi>Dreadful Anathema</hi> with her ſelf. This was no ſooner <hi>come out,</hi> (and no ſooner did it come, then <hi>Felton</hi> an audacious fellow faſtned it upon the Biſhop of <hi>London's</hi> Palace Gates) but one after another fell buſily to work, creating the Queen a great deal of <hi>vexatious trouble.</hi> Abroad, the Pope and King of <hi>Spain</hi> were very <hi>buſie,</hi> the <hi>former</hi> deſirous to make <hi>England</hi> a <hi>Portion</hi> for his Nephew the Marquis <hi>Vincolo:</hi> the <hi>latter</hi> to make it an Addittament to his own large Dominions: At home <hi>Parſons</hi> and <hi>Cam<g ref="char:EOLhyphen"/>pian talked</hi> loudly, and <hi>wrote</hi> ſeditiouſly: <hi>Somervile</hi> threatens to <hi>kill the Queen with his own hand: Parry</hi> undertakes as much, being encouraged with the Pro<g ref="char:EOLhyphen"/>miſe of a <hi>Plenary Indulgence</hi> from the Pope. <hi>Savage</hi> (with whom <hi>Babington</hi> joyned) was drawn into a Treaſon by <hi>Giffords</hi> Doctrin, who taught <hi>it was a me<g ref="char:EOLhyphen"/>ritorious work to deſtroy Her, being a Prince already ex<g ref="char:EOLhyphen"/>communicated.</hi> By theſe means uſed to <hi>ſome,</hi> and the promiſe of <hi>Gratuities</hi> to <hi>others,</hi> were <hi>Lopez,</hi> and <hi>York,</hi> and <hi>Williams</hi> all of them cajoled; and <hi>Squire</hi> after<g ref="char:EOLhyphen"/>wards, who practiſed more cunningly to kill the Queen by <hi>poiſoning the pommel of her Saddle.</hi> How
+<pb n="29" facs="tcp:96670:16"/> active the men <hi>of this perſwaſion</hi> were in the Spaniſh Invaſion every Chronicle will tell you. But leſt they ſhould pretend That Buſineſs was only managed by <hi>Foreigners</hi> or <hi>Renegadoes,</hi> it is certain they cannot ſo eaſily <hi>acquit</hi> themſelves of that horrible <hi>Gun-powder Plot,</hi> for the <hi>utter deſtroying King, Lords, and Com<g ref="char:EOLhyphen"/>mons in Parliament,</hi> the <hi>Alteration of Religion,</hi> and <hi>Sub<g ref="char:EOLhyphen"/>verſion of the Government;</hi> a piece of wickedneſs ſo <hi>deteſtable,</hi> as nothing <hi>before that time</hi> could ever <hi>match</hi> it: and which when once effected (as no doubt was made but the deſign would take) the whole blame ſhould be laid upon the Puritans. The particulars are to be found almoſt every where. Now when upon ſuch diſloyal practices the Parliament did more ſtrictly <hi>urge</hi> the Oath of Allegeance, Pope <hi>Paul</hi> the Fifth ſent his Admonitory into <hi>England,</hi> adviſing all his dutiful Children that they ſhould diligently <hi>be<g ref="char:EOLhyphen"/>ware of that, and all ſuch kind of Oaths;</hi> that <hi>they were not at all to be regarded;</hi> concluding with this phraſe, <hi>Haec eſt mera, pura, integraque voluntas noſtra; This is our plain and direct will and pleaſure.</hi> Herein alſo he was followed by his Succeſſor <hi>
+                        <g ref="char:V">Ʋ</g>rban</hi> VIII. (at the beginning of King <hi>Charles</hi> his Reign) <hi>Adhaereat fauci<g ref="char:EOLhyphen"/>bus veſtris lingua veſtra priuſquam Authoritatem Beati Petri ea jurisjurandi formula imminutam detis: Let your tongues cleave to the roof of your mouths before you dimi<g ref="char:EOLhyphen"/>niſh the Authority of the Apoſtolick Sea by</hi> ſubmitting to ſuch an Oath. Hence you may follow theſe <hi>good Subjects</hi> to the <hi>Iriſh Rebellion,</hi> and there behold their ſo much <hi>boaſted loyalty</hi> in the ſlaughter of many thouſands, and turning that Kingdom into an <hi>Aceldama;</hi> Men, Women and Children murdered with an <hi>unparallell'd cruelty</hi> in a months time, to a <hi>prodigious number:</hi> the <hi>ſame fate</hi>
+                     <pb n="30" facs="tcp:96670:17"/> awaiting all the Proteſtants and Engliſh who ſhould refuſe to joyn with them. A ſad beginner of our unhappy Troubles at home.</p>
+                  <p>Well, but notwithſtanding all that hath been ſaid, <note place="margin">The Papiſts Plea of loyalty in the late times.</note> the Papiſts have one Plea for themſelves; and <hi>all ob<g ref="char:EOLhyphen"/>jections</hi> againſt them are preſently anſwered with their <hi>Loyalty to King Charles the Firſt in his diſtreſſes,</hi> and the <hi>hazards</hi> they run both of life and fortune to <hi>de<g ref="char:EOLhyphen"/>fend his Intereſt.</hi>
+                  </p>
+                  <p>This I confeſs Sir ſeems very plauſible at firſt ſight, <note place="margin" type="runSum">Anſwered.</note> and I really believe hath had a <hi>greater influence</hi> upon you than all the Arguments they have muſtered up to gain you their <hi>Proſelyte.</hi> It is poſſible you will think me <hi>ſtrangely diſpoſed,</hi> whileſt with one breath I both <hi>Acquit</hi> and <hi>Accuſe, Commend</hi> and <hi>Condemn</hi> them in this particular. That there were a great many <hi>noble, brave, loyal ſpirits</hi> of the Romiſh Perſwaſion, who did with the <hi>greateſt integrity,</hi> and without any other deſigns than the <hi>ſatisfying conſcience,</hi> adventure their lives in the War, and leave their bodies in the field for the <hi>Kings ſervice,</hi> is a <hi>Truth</hi> beyond all que<g ref="char:EOLhyphen"/>ſtion: and that <hi>ſeveral</hi> (if not All) of theſe were men of ſuch <hi>generous ſouls,</hi> that the greateſt temptations in the world could not have <hi>perverted,</hi> or made them <hi>deſert</hi> their <hi>King</hi> in the height of his miſeries: but we know there is no arguing from <hi>Particulars;</hi> nor did their Religion <hi>(as Romiſh) oblige</hi> them to this du<g ref="char:EOLhyphen"/>ty, ſince it hath <hi>in part,</hi> and will every day <hi>more</hi> ap<g ref="char:EOLhyphen"/>pear to the world, that the Grandees of that Church had the <hi>greateſt hand in our inteſtine broils,</hi> were the <hi>main Contrivers of the Kings death;</hi> and after his Head was cut off, did careſs that <hi>Piece of a Parlia<g ref="char:EOLhyphen"/>ment</hi> which then had uſurped the ſupreme power,
+<pb n="31" facs="tcp:96670:17"/> with <hi>all the flatteries</hi> which <hi>a Jeſuitical Cunning</hi> could poſſibly invent. Heavy charges indeed, but ſoon <hi>prov'd:</hi> the Truth of them is but <hi>too evi<g ref="char:EOLhyphen"/>dent,</hi> and then, Sir, be your own Judge, whe<g ref="char:EOLhyphen"/>ther theſe Perſons were the <hi>Kings Friends</hi> or no. That they had <hi>the greateſt hand in our inteſtine Broils,</hi> and were mainly inſtrumental to cheriſh the <hi>
+                        <g ref="char:V">Ʋ</g>nnatu<g ref="char:EOLhyphen"/>ral Rebellion</hi> which broke forth among us, appears by their conſtant endeavours to create <hi>Jealouſies</hi> in the Peoples minds againſt the King and his Miniſters of State; <hi>Scores</hi> of active perſons being <hi>at that time</hi> and upon <hi>that very Errand</hi> ſent from <hi>Rome</hi> into <hi>England</hi> under ſeveral Diſguiſes, ſome pretending to be <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> ſome <hi>Merchants,</hi> &amp;c. And ſo extremely incen<g ref="char:EOLhyphen"/>ſed they were at the King, for <hi>not granting</hi> them <hi>A To<g ref="char:EOLhyphen"/>leration of Religion,</hi> which they verily expected, and by <hi>declaring</hi> that expectation made the ordinary peo<g ref="char:EOLhyphen"/>ple of this Kingdom <hi>fear</hi> it, and by their fearing it to expreſs <hi>their Diſcontents</hi> at the Apprehenſions of it: (the greateſt occaſion of ſo much Bloudſhed for many years after) ſo incenſed (I ſay) they were that in the <hi>Cabal</hi> at <hi>Rome</hi> it was reſolved, ſince the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> would not <hi>favour their Profeſſion,</hi> they would <hi>diſturb his Peace,</hi> and <hi>endeavour the Ruine both of him<g ref="char:EOLhyphen"/>ſelf and his Kingdoms:</hi> And however for the more effectual managing their buſineſs, they did in <hi>outward appearance</hi> ſide with the Royal Intereſt, yet when their Ends were obteined, they openly acknowledged how <hi>All Affairs had paſſed through their hands,</hi> and were <hi>carried on</hi> by <hi>their Contrivance.</hi> That <hi>grave Seignior</hi> delivered it <hi>ex Cathedrâ,</hi> when News of his Majeſties Death reached <hi>Roan.</hi> 
+                     <q rend="inline">The King of <hi>England</hi> (ſaith <note place="margin">Dr. <hi>Moulin's</hi> Vindication of the Proteſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t Religion. <hi>p</hi> 58.</note> he) at his Marriage had promiſed us the <hi>Re-eſta<g ref="char:EOLhyphen"/>bliſhing</hi>
+                        <pb n="32" facs="tcp:96670:18"/> 
+                        <hi>the Catholic Religion;</hi> (No wonder that a <hi>Lie</hi> drops from a Jeſuites mouth) and when he de<g ref="char:EOLhyphen"/>layed to fulfil his Promiſe, we ſummoned him from time to time to perform it: We came ſo far as to tell him, that if he would not do it, we ſhould be forced to <hi>take thoſe Courſes</hi> which would <hi>bring him to his Deſtruction:</hi> We have given him <hi>lawful warn<g ref="char:EOLhyphen"/>ing,</hi> and when no warning would ſerve, <hi>we have kept our word to him,</hi> ſince he would not keep his word to us.</q> 
+                     <hi>Another Piece of Service</hi> wherein they were mainly employed was the <hi>
+                        <g ref="char:V">Ʋ</g>nhinging our Govern<g ref="char:EOLhyphen"/>ment</hi> not only in the <hi>State</hi> but in the <hi>Church;</hi> bringing the Epiſcopal Order into <hi>Contempt,</hi> and raiſing a <hi>Scan<g ref="char:EOLhyphen"/>dal</hi> upon the Public Liturgy. For they were ſo well read in Politics as without much ſtudy to <hi>divine</hi> that when a Multitude is once left at Liberty without any <hi>Coercive Power</hi> to keep <hi>Order;</hi> when the ordinary ſort have no <hi>preſcribed Rules</hi> for their <hi>Devotions,</hi> nor the <hi>Articles of their Chriſtian Faith</hi> by frequent Repetitions <hi>riveted in their memory;</hi> they mey eaſily be <hi>perverted</hi> by the <hi>crafty Inſinuations</hi> of <hi>cunning Seducers;</hi> and ha<g ref="char:EOLhyphen"/>ving <hi>no Platform</hi> of Religion that is <hi>good,</hi> be quickly drawn to <hi>embrace one</hi> that is <hi>bad.</hi> To this purpoſe, let me give you the following Story from a very Re<g ref="char:EOLhyphen"/>verend Prelate lately deceaſed, <q rend="inline">of a Gentleman who <note place="margin">Biſhop <hi>Nicol<g ref="char:EOLhyphen"/>ſon</hi>'s Apology, <hi>&amp;.</hi> Part 3. Sect. 2. p. 154</note> being reconciled to <hi>Rome</hi> by one <hi>Meredith,</hi> an an<g ref="char:EOLhyphen"/>tient and learned Jeſuite, (though afterwards turn<g ref="char:EOLhyphen"/>ing <hi>Proteſtant,</hi> and proffering to avouch the Truth of this Relation <hi>upon Oath.)</hi> This <hi>Meredith</hi> told him that in <hi>England</hi> they had been long and indu<g ref="char:EOLhyphen"/>ſtrious about their work of Converſion but it went on <hi>ſlowly,</hi> and ſo would till they took a <hi>wiſer courſe.</hi>
+                        <pb n="33" facs="tcp:96670:18"/> 
+                        <hi>Two things</hi> there were muſt be done, before they ſhould bring their buſineſs to a <hi>full effect.</hi> They muſt <hi>firſt</hi> find a way to <hi>remove the Biſhops and Mi<g ref="char:EOLhyphen"/>niſters,</hi> in whoſe room they muſt bring it ſo about, <hi>All ſhould have Liberty to Preach.</hi> Then <hi>ſecondly,</hi> they muſt <hi>get down the Common-Prayer Book,</hi> and <hi>ſuffer</hi> every man to <hi>uſe what Prayer he liſt.</hi>
+                     </q> Now if theſe were not the <hi>main things ſtickled about</hi> in the beginning of the Troubles, All the Books of that time beſides ſome of our own Obſervations, do very much deceive us. So that the <hi>Presbyterian</hi> was but the <hi>Je<g ref="char:EOLhyphen"/>ſuites Agent,</hi> and did <hi>that work</hi> for him, which he <hi>could not do</hi> for himſelf. Well, when the War had continued ſome time, and the <hi>Independent Faction</hi> be<g ref="char:EOLhyphen"/>gan <note place="margin">Dr. <hi>Moulin's</hi> Vindic. <hi>p.</hi> 60.</note> to prevail, then the <hi>Romiſh Emiſsaries</hi> crept into <hi>that Part of the Army:</hi> about thirty of them being met by a Proteſtant Gentleman between <hi>Roan</hi> and <hi>Diep,</hi> who profeſſed <hi>their Deſign</hi> was to be <hi>Agitators.</hi> There they <hi>ſtruck in</hi> with thoſe bloudy Villains in that <hi>unpa<g ref="char:EOLhyphen"/>rallel'd piece of Wickedneſs, The Murder of King</hi> Charles. <q rend="inline">A Reverend Perſon ſtill alive, hath proffered to juſti<g ref="char:EOLhyphen"/>fie, <note place="margin">D. <hi>Moulin</hi> p. 59.</note> whenſoever Authority ſhall require it, that the year before the Death of our Royal Martyr a ſelect Number of <hi>Engliſh Jeſuites</hi> were ſent from <hi>their whole Party</hi> in <hi>England;</hi> firſt to <hi>Paris</hi> to conſult with the Faculty of <hi>Sorbonne;</hi> to whom they put this Queſtion in Writing, That <hi>ſeeing the State of</hi> England <hi>was in a likely poſture to change Government, whether</hi> it was lawful for the Catholics to work that Change <hi>for the Advancing and Securing the Catholic Cauſe in</hi> England, by making away the King, <hi>whom there was no hope to turn</hi> from his Hereſie? And it was anſwered <hi>Affirmatively.</hi> This very Queſtion
+<pb n="34" facs="tcp:96670:19"/> was afterwards debated at <hi>Rome,</hi> where both Pope and Council declared it not only Lawful but <hi>Expe<g ref="char:EOLhyphen"/>dient</hi> for the <hi>Men of their Religion</hi> to <hi>promote that Alteration of State.</hi> And though when all people cried out of that <hi>Helliſh Act,</hi> whereupon a Command was given for all the Papers concerning that Subject to be gathered together and <hi>burnt,</hi> yet one Gentle<g ref="char:EOLhyphen"/>man in <hi>Paris</hi> kept <hi>his,</hi> ſhewed it to a Proteſtant Friend, and with a <hi>great Abhorrency</hi> related the whole Carriage of that <hi>Negotiation.</hi>
+                     </q> If you be not yet ſatisfied in the <hi>Loyalty</hi> of the Papiſts, you ſhall have a few more Diſcoveries. Was it not a <hi>fair Ar<g ref="char:EOLhyphen"/>gument</hi> of great Affection to the King, to be <hi>preſent</hi> at his Murder with a great <hi>many Demonſtrations of Joy?</hi> Yet there are ſeveral Perſons who could name you the <hi>Prieſt</hi> and <hi>whoſe Confeſſor</hi> he was, who when he ſaw that Royal Head <hi>ſtruck off,</hi> Flouriſhed with his Sword, (for he mounted the Scaffold in the Habit of a Soldier) with words to this purpoſe, <hi>This Blow hath diſpatched the greateſt Enemy we had in the world,</hi> (Mr <hi>Prynne</hi> (I think) was the firſt Publiſher of this Story, and if there be occaſion, it will quickly be verified.) In the mean while do but reflect upon the ſad condition of that Bleſſed Prince, The <hi>Sectaries</hi> branded and rebel<g ref="char:EOLhyphen"/>led againſt him for Endeavours <hi>to introduce Popery:</hi> and the <hi>Romaniſts</hi> brought him to the Block as the <hi>greateſt Oppoſer of Popery</hi> in the World. There are ſome more Stories of this nature which you may read (and <hi>worth</hi> the reading they be) in that excellent Book of Dr. <hi>Moulin's. Two parts</hi> of my charge are by this time plainly proved, the <hi>Third</hi> will not re<g ref="char:EOLhyphen"/>quire much <hi>Trouble.</hi> How finely did they afterwards <hi>wheadle</hi> the Rump-Parliament, promiſing what <hi>duti<g ref="char:EOLhyphen"/>ful</hi>
+                     <pb n="35" facs="tcp:96670:19"/> 
+                     <hi>Subjects</hi> they would be to that uſurped Power, in caſe they might but enjoy their Liberty; <hi>bitterly in<g ref="char:EOLhyphen"/>veighing</hi> againſt the <hi>Severities</hi> exerciſed upon them <hi>in the Kings time. If the Rigour of the Laws were qua<g ref="char:EOLhyphen"/>lified</hi> 
+                     <note place="margin">Chriſtian Mo<g ref="char:EOLhyphen"/>derator. <hi>part</hi> 1. <hi>pag.</hi> 16.</note> 
+                     <hi>to a Temper of Mercy, that the Catholics might enjoy but</hi> half the Liberties <hi>to which they were born, they would be the</hi> moſt quiet and uſeful Subjects of <hi>England; ſince their</hi> 
+                     <note n="(1)" place="margin">Reconcile this with the former Relati<g ref="char:EOLhyphen"/>ons.</note> 
+                     <hi>Religion obligeth them to obey the lawful Commands of their Superiors, not only for Fear but Con<g ref="char:EOLhyphen"/>ſcience. Nor did ever the</hi> very worſt of them <hi>ſtir in any Sedition, when they were admitted but to half the Rights of</hi> Engliſh-men: <hi>Nor were they</hi> many <hi>that ever attempted their own Relief by Endangering their Coun<g ref="char:EOLhyphen"/>tries Peace,</hi> all the reſt <hi>ſitting Quietly and Patiently un<g ref="char:EOLhyphen"/>der the Burdens which</hi> the heavy Hand of thoſe Times <hi>continually heaped upon them.</hi> When <hi>Cromwel</hi> had engroſſed all into his own hands, then comes out a Book called <hi>The Grounds of Obedience and Government,</hi> full fraught with the <hi>moſt pernicious Principles</hi> that can be deviſed againſt the Intereſt of our <hi>Sovereign</hi> then in <hi>Exile,</hi> and for the Encouragement of that <hi>Tyranny</hi> the rebellious Party had introduced (much like <hi>another</hi> Entituled, <hi>The Holy Common-wealth,</hi> (though writ<g ref="char:EOLhyphen"/>ten by a Perſon of <hi>a different Perſuaſion</hi> from the for<g ref="char:EOLhyphen"/>mer) And had both thoſe Books been <hi>burnt by the common Hangman,</hi> the Kingdom had ſuſteined <hi>no great Loſs)</hi> Then who but <hi>Oliver!</hi> becauſe he was <hi>in poſ<g ref="char:EOLhyphen"/>ſeſſion,</hi> and it was for the <hi>Common Good</hi> to <hi>ſubmit unto him:</hi> Nay, <hi>the very diſpoſſeſſed Prince was obliged to</hi> renounce all Claim <hi>to his Government, elſe he would make himſelf</hi> worſe than an Infidel. Here was excel<g ref="char:EOLhyphen"/>lent Doctrin for <hi>Loyal Subjects</hi> to diſperſe among the infatuated Rabble; and what could the Deſign of it
+<pb n="36" facs="tcp:96670:20"/> be, but to make them <hi>ſtark mad,</hi> who were but <hi>too mad before?</hi> It will perhaps be pretended, that theſe were onely the Miſcarriages of ſome <hi>particular per<g ref="char:EOLhyphen"/>ſons:</hi> but why then were not thoſe perſons <hi>diſcou<g ref="char:EOLhyphen"/>raged</hi> by the <hi>reſt of their own Party?</hi> why were not their Writings proteſted againſt? and Themſelves <hi>Cenſured</hi> by <hi>their Superiors?</hi> Had this courſe been been taken the Church of <hi>Rome</hi> had proceeded fair<g ref="char:EOLhyphen"/>ly to her <hi>vindication,</hi> and we neither <hi>ſhould,</hi> nor in reaſon <hi>could</hi> have blamed her. But there is not the leaſt ground to believe ſuch a thing was ever <hi>attem<g ref="char:EOLhyphen"/>pted,</hi> conſidering how <hi>ſerviceable</hi> thoſe deſtructive Po<g ref="char:EOLhyphen"/>ſitions were <hi>in that juncture of time</hi> to their grand Intereſt.</p>
+                  <p>And now to <hi>diſmiſs</hi> you from your trouble, for a <note place="margin">The Conclu<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</note> concluſion of the whole, I appeal to your own ſeri<g ref="char:EOLhyphen"/>ous thoughts, whether it be not <hi>the Honor and Hap<g ref="char:EOLhyphen"/>pineſs of all the People of</hi> England, <hi>that they profeſs ſo excellent a Religion,</hi> which <hi>ſecures the King in his Throne, and teacheth his People a conſciencious Obedi<g ref="char:EOLhyphen"/>ence to his Commands: Which</hi> inſtructs them ſo clear<g ref="char:EOLhyphen"/>ly in their <hi>Allegeance,</hi> and renders them <hi>inexcuſable</hi> if at any time they <hi>deviate</hi> from it: <hi>Which</hi> in the grea<g ref="char:EOLhyphen"/>teſt extremities allows them <hi>no other weapons</hi> againſt their Sovereign, but thoſe of the Primitive <hi>Church, Prayers and Tears: Which diſcourageth Rebellion</hi> though upon never ſuch <hi>plauſible pretences;</hi> and in caſe of miſcarriages by Him who ſits upon the Throne, looks upon him as <hi>unaccountable to any Earthly Power,</hi> and leaves him to the Judgment of that God, who <hi>alone</hi> hath <hi>an abſolute Authority over Him.</hi> Nor will it only appear the Subjects Happineſs to be <hi>Educated</hi> in it,
+<pb n="37" facs="tcp:96670:20"/> but the Princes Concern to <hi>Defend this Religion,</hi> and <hi>encourage</hi> all the faithful Adherers to it. We obey out of <hi>a Principle of Piety,</hi> not out of any <hi>particular Intereſt;</hi> and <hi>diſcharge all our Duties</hi> to the <hi>King</hi> in <hi>compliance</hi> with his Command, <hi>By whom Kings reign.</hi> Which makes me very <hi>confident,</hi> that though we are now <hi>fallen</hi> to a <hi>low Ebb,</hi> he will bring us to <hi>High-water</hi> again, and <hi>This Church thus firmly eſtabliſhed upon the Principles of Religion and Loyalty,</hi> will be ſo far <hi>The Object of Gods particular Care,</hi> that <hi>the Gates of Hell ſhall not prevail againſt it:</hi> that our Lord the King, <hi>who is wiſe according to the wiſedom of an Angel of God,</hi> will be a <hi>Nurſing-Father</hi> to the <hi>true Proteſtant Pro<g ref="char:EOLhyphen"/>feſſion</hi> among us, as the <hi>ſureſt ſupport of his Honour and Dignity. Let thine Hand</hi> therefore, <hi>O God, be upon that</hi> 
+                     <note place="margin">Pſal. 80. 18.</note> 
+                     <hi>Man of thy right hand, and that Son of Man</hi> (of that <hi>Bleſſed Prince,</hi> that <hi>Royal Martyr,</hi> that <hi>Prodigious Ex<g ref="char:EOLhyphen"/>ample of Piety and Patience) whom</hi> (maugre the ſpite of his Enemies) <hi>thou haſt now made ſtrong for thy ſelf.</hi> You ſee, Sir, how <hi>freely</hi> I have diſcovered my Thoughts concerning <hi>our laſt Diſcourſe.</hi> What <hi>Satiſ<g ref="char:EOLhyphen"/>faction</hi> you may reap from them depends upon the Almighties Bleſſing. Only I aſſure you with all faith<g ref="char:EOLhyphen"/>fulneſs, they convince me of the <hi>Reaſonableneſs, Good<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Divinity</hi> of <hi>my Religion,</hi> and furniſh me with Grounds of <hi>unexpreſſible Gratitude</hi> to God for <hi>my Birth and Education in the Church of</hi> England: out of whoſe <hi>Arms</hi> I hope the <hi>Cunning Devices</hi> of Jeſuitical Impoſtors ſhall never be able to <hi>ſnatch</hi> you, to the <hi>endangering</hi> your Souls Eternal Happineſs, or the <hi>robbing</hi> your Sovereign of ſo <hi>good a Subject,</hi> as your
+<pb n="38" facs="tcp:96670:21"/> Quality and Faculties capacitate you to be. And if <hi>theſe Papers</hi> may be in the leaſt Inſtrumental to keep you <hi>ſtedfaſt in our Holy Communion,</hi> I ſhall in<g ref="char:EOLhyphen"/>finitely <hi>rejoyce</hi> at ſo fair an Occaſion of manifeſting my ſelf,</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your very faithful Servant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
